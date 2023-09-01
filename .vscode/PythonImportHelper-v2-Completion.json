@@ -112,6 +112,14 @@
         "documentation": {}
     },
     {
+        "label": "Databricks",
+        "importPath": "databricks.databricks",
+        "description": "databricks.databricks",
+        "isExtraImport": true,
+        "detail": "databricks.databricks",
+        "documentation": {}
+    },
+    {
         "label": "sleep",
         "importPath": "time",
         "description": "time",
@@ -2409,6 +2417,15 @@
         "description": "databricks.databricks",
         "peekOfCode": "class Databricks:\n    _url: str\n    _token: str\n    def __init__(\n        self,\n        url: str,\n        token: str\n    ) -> None:\n        self._url = url\n        self._token = token",
         "detail": "databricks.databricks",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def main() -> None:\n    db = Databricks(\"https://adb-6549464872659391.11.azuredatabricks.net\", \"dapi875e195df70eb028bf477acce594ff50\")\n    db.listClusters()\nif __name__ == \"__main__\":\n    main()",
+        "detail": "main",
         "documentation": {}
     }
 ]
