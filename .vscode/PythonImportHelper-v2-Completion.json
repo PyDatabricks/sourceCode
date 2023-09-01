@@ -112,14 +112,6 @@
         "documentation": {}
     },
     {
-        "label": "Databricks",
-        "importPath": "databricks.databricks",
-        "description": "databricks.databricks",
-        "isExtraImport": true,
-        "detail": "databricks.databricks",
-        "documentation": {}
-    },
-    {
         "label": "sleep",
         "importPath": "time",
         "description": "time",
@@ -626,6 +618,15 @@
         "documentation": {}
     },
     {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
         "label": "listdir",
         "importPath": "os",
         "description": "os",
@@ -887,6 +888,22 @@
         "description": "databricks.types.DatabricksJobTypes",
         "isExtraImport": true,
         "detail": "databricks.types.DatabricksJobTypes",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "find_packages",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
         "documentation": {}
     },
     {
@@ -2426,6 +2443,24 @@
         "description": "main",
         "peekOfCode": "def main() -> None:\n    db = Databricks(\"https://adb-6549464872659391.11.azuredatabricks.net\", \"dapi875e195df70eb028bf477acce594ff50\")\n    db.listClusters()\nif __name__ == \"__main__\":\n    main()",
         "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "_PATH_ROOT",
+        "kind": 5,
+        "importPath": "setup",
+        "description": "setup",
+        "peekOfCode": "_PATH_ROOT = os.path.dirname(__file__)\n_PATH_REQUIRES = os.path.join(_PATH_ROOT, \"requirements\")\ndef _load_requirements(path_dir: str = _PATH_ROOT, file_name: str = \"requirements.txt\") -> \"list[str]\":\n    with open(os.path.join(path_dir, file_name)) as fp:\n        reqs = [ln.strip() for ln in fp.readlines()]\n    return [r for r in reqs if r and not r.startswith(\"#\")]\nsetup(\n    name='databricks',\n    version='0.1',\n    url='https://github.com/the-gigi/pathology',",
+        "detail": "setup",
+        "documentation": {}
+    },
+    {
+        "label": "_PATH_REQUIRES",
+        "kind": 5,
+        "importPath": "setup",
+        "description": "setup",
+        "peekOfCode": "_PATH_REQUIRES = os.path.join(_PATH_ROOT, \"requirements\")\ndef _load_requirements(path_dir: str = _PATH_ROOT, file_name: str = \"requirements.txt\") -> \"list[str]\":\n    with open(os.path.join(path_dir, file_name)) as fp:\n        reqs = [ln.strip() for ln in fp.readlines()]\n    return [r for r in reqs if r and not r.startswith(\"#\")]\nsetup(\n    name='databricks',\n    version='0.1',\n    url='https://github.com/the-gigi/pathology',\n    license='None',",
+        "detail": "setup",
         "documentation": {}
     }
 ]

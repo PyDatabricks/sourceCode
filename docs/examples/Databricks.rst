@@ -6,8 +6,8 @@ Para instanciar a classe Databricks, é preciso passar o token e o link.
 .. code-block:: python
 
     >>> from databricks import Databricks
-    >>> token = "sample-token"
-    >>> url = "sample-link"
+    >>> token = "<token>"
+    >>> url = "<url>"
     >>> db = Databricks(token, url)
 
 Get Clusters
