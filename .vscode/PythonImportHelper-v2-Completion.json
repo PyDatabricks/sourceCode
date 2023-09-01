@@ -1,0 +1,2414 @@
+[
+    {
+        "label": "DatabricksClusterInfoType",
+        "importPath": "databricks.types.DatabricksTypes",
+        "description": "databricks.types.DatabricksTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksListClustersResponseType",
+        "importPath": "databricks.types.DatabricksTypes",
+        "description": "databricks.types.DatabricksTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksTypes",
+        "documentation": {}
+    },
+    {
+        "label": "Databricks",
+        "importPath": "databricks.databricks",
+        "description": "databricks.databricks",
+        "isExtraImport": true,
+        "detail": "databricks.databricks",
+        "documentation": {}
+    },
+    {
+        "label": "Databricks",
+        "importPath": "databricks.databricks",
+        "description": "databricks.databricks",
+        "isExtraImport": true,
+        "detail": "databricks.databricks",
+        "documentation": {}
+    },
+    {
+        "label": "Databricks",
+        "importPath": "databricks.databricks",
+        "description": "databricks.databricks",
+        "isExtraImport": true,
+        "detail": "databricks.databricks",
+        "documentation": {}
+    },
+    {
+        "label": "Databricks",
+        "importPath": "databricks.databricks",
+        "description": "databricks.databricks",
+        "isExtraImport": true,
+        "detail": "databricks.databricks",
+        "documentation": {}
+    },
+    {
+        "label": "Databricks",
+        "importPath": "databricks.databricks",
+        "description": "databricks.databricks",
+        "isExtraImport": true,
+        "detail": "databricks.databricks",
+        "documentation": {}
+    },
+    {
+        "label": "Databricks",
+        "importPath": "databricks.databricks",
+        "description": "databricks.databricks",
+        "isExtraImport": true,
+        "detail": "databricks.databricks",
+        "documentation": {}
+    },
+    {
+        "label": "Databricks",
+        "importPath": "databricks.databricks",
+        "description": "databricks.databricks",
+        "isExtraImport": true,
+        "detail": "databricks.databricks",
+        "documentation": {}
+    },
+    {
+        "label": "Databricks",
+        "importPath": "databricks.databricks",
+        "description": "databricks.databricks",
+        "isExtraImport": true,
+        "detail": "databricks.databricks",
+        "documentation": {}
+    },
+    {
+        "label": "Databricks",
+        "importPath": "databricks.databricks",
+        "description": "databricks.databricks",
+        "isExtraImport": true,
+        "detail": "databricks.databricks",
+        "documentation": {}
+    },
+    {
+        "label": "Databricks",
+        "importPath": "databricks.databricks",
+        "description": "databricks.databricks",
+        "isExtraImport": true,
+        "detail": "databricks.databricks",
+        "documentation": {}
+    },
+    {
+        "label": "Databricks",
+        "importPath": "databricks.databricks",
+        "description": "databricks.databricks",
+        "isExtraImport": true,
+        "detail": "databricks.databricks",
+        "documentation": {}
+    },
+    {
+        "label": "Databricks",
+        "importPath": "databricks.databricks",
+        "description": "databricks.databricks",
+        "isExtraImport": true,
+        "detail": "databricks.databricks",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "Context",
+        "importPath": "databricks.compute.commandExecution.context",
+        "description": "databricks.compute.commandExecution.context",
+        "isExtraImport": true,
+        "detail": "databricks.compute.commandExecution.context",
+        "documentation": {}
+    },
+    {
+        "label": "Context",
+        "importPath": "databricks.compute.commandExecution.context",
+        "description": "databricks.compute.commandExecution.context",
+        "isExtraImport": true,
+        "detail": "databricks.compute.commandExecution.context",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksRunCommandResponseType",
+        "importPath": "databricks.types.DatabricksCommandExecution",
+        "description": "databricks.types.DatabricksCommandExecution",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksCommandExecution",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksGetCommandStatusResponseType",
+        "importPath": "databricks.types.DatabricksCommandExecution",
+        "description": "databricks.types.DatabricksCommandExecution",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksCommandExecution",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksGetCommandStatusResponseResultsType",
+        "importPath": "databricks.types.DatabricksCommandExecution",
+        "description": "databricks.types.DatabricksCommandExecution",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksCommandExecution",
+        "documentation": {}
+    },
+    {
+        "label": "Language",
+        "importPath": "databricks.types.DatabricksCommandExecution",
+        "description": "databricks.types.DatabricksCommandExecution",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksCommandExecution",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCommandStatusResponseType",
+        "importPath": "databricks.types.DatabricksCommandExecution",
+        "description": "databricks.types.DatabricksCommandExecution",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksCommandExecution",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateCommandResponseType",
+        "importPath": "databricks.types.DatabricksCommandExecution",
+        "description": "databricks.types.DatabricksCommandExecution",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksCommandExecution",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksDeleteCommandResponseType",
+        "importPath": "databricks.types.DatabricksCommandExecution",
+        "description": "databricks.types.DatabricksCommandExecution",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksCommandExecution",
+        "documentation": {}
+    },
+    {
+        "label": "Language",
+        "importPath": "databricks.types.DatabricksCommandExecution",
+        "description": "databricks.types.DatabricksCommandExecution",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksCommandExecution",
+        "documentation": {}
+    },
+    {
+        "label": "Cluster",
+        "importPath": "databricks.compute.cluster.cluster",
+        "description": "databricks.compute.cluster.cluster",
+        "isExtraImport": true,
+        "detail": "databricks.compute.cluster.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "Cluster",
+        "importPath": "databricks.compute.cluster.cluster",
+        "description": "databricks.compute.cluster.cluster",
+        "isExtraImport": true,
+        "detail": "databricks.compute.cluster.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "Cluster",
+        "importPath": "databricks.compute.cluster.cluster",
+        "description": "databricks.compute.cluster.cluster",
+        "isExtraImport": true,
+        "detail": "databricks.compute.cluster.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "databricks.compute.commandExecution.command",
+        "description": "databricks.compute.commandExecution.command",
+        "isExtraImport": true,
+        "detail": "databricks.compute.commandExecution.command",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksListDirResponseType",
+        "importPath": "databricks.types.DatabricksFileManagementRepositoryTypes",
+        "description": "databricks.types.DatabricksFileManagementRepositoryTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksFileManagementRepositoryTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksFileGetContentResponseType",
+        "importPath": "databricks.types.DatabricksFileManagementRepositoryTypes",
+        "description": "databricks.types.DatabricksFileManagementRepositoryTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksFileManagementRepositoryTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksRepositoryPropertiesType",
+        "importPath": "databricks.types.DatabricksFileManagementRepositoryTypes",
+        "description": "databricks.types.DatabricksFileManagementRepositoryTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksFileManagementRepositoryTypes",
+        "documentation": {}
+    },
+    {
+        "label": "Repository",
+        "importPath": "databricks.fileManagement.dbfs.repository",
+        "description": "databricks.fileManagement.dbfs.repository",
+        "isExtraImport": true,
+        "detail": "databricks.fileManagement.dbfs.repository",
+        "documentation": {}
+    },
+    {
+        "label": "Repository",
+        "importPath": "databricks.fileManagement.dbfs.repository",
+        "description": "databricks.fileManagement.dbfs.repository",
+        "isExtraImport": true,
+        "detail": "databricks.fileManagement.dbfs.repository",
+        "documentation": {}
+    },
+    {
+        "label": "RepositoryPath",
+        "importPath": "databricks.fileManagement.path",
+        "description": "databricks.fileManagement.path",
+        "isExtraImport": true,
+        "detail": "databricks.fileManagement.path",
+        "documentation": {}
+    },
+    {
+        "label": "RepositoryPath",
+        "importPath": "databricks.fileManagement.path",
+        "description": "databricks.fileManagement.path",
+        "isExtraImport": true,
+        "detail": "databricks.fileManagement.path",
+        "documentation": {}
+    },
+    {
+        "label": "RepositoryPath",
+        "importPath": "databricks.fileManagement.path",
+        "description": "databricks.fileManagement.path",
+        "isExtraImport": true,
+        "detail": "databricks.fileManagement.path",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "databricks.fileManagement.dbfs.file",
+        "description": "databricks.fileManagement.dbfs.file",
+        "isExtraImport": true,
+        "detail": "databricks.fileManagement.dbfs.file",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "databricks.fileManagement.local.file",
+        "description": "databricks.fileManagement.local.file",
+        "isExtraImport": true,
+        "detail": "databricks.fileManagement.local.file",
+        "documentation": {}
+    },
+    {
+        "label": "dispatch",
+        "importPath": "multipledispatch",
+        "description": "multipledispatch",
+        "isExtraImport": true,
+        "detail": "multipledispatch",
+        "documentation": {}
+    },
+    {
+        "label": "Thread",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "Repository",
+        "importPath": "databricks.fileManagement.local.repository",
+        "description": "databricks.fileManagement.local.repository",
+        "isExtraImport": true,
+        "detail": "databricks.fileManagement.local.repository",
+        "documentation": {}
+    },
+    {
+        "label": "Repository",
+        "importPath": "databricks.fileManagement.local.repository",
+        "description": "databricks.fileManagement.local.repository",
+        "isExtraImport": true,
+        "detail": "databricks.fileManagement.local.repository",
+        "documentation": {}
+    },
+    {
+        "label": "listdir",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "makedirs",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "remove",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Directory",
+        "importPath": "databricks.fileManagement.local.directory",
+        "description": "databricks.fileManagement.local.directory",
+        "isExtraImport": true,
+        "detail": "databricks.fileManagement.local.directory",
+        "documentation": {}
+    },
+    {
+        "label": "rmtree",
+        "importPath": "shutil",
+        "description": "shutil",
+        "isExtraImport": true,
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobContinuousType",
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobEmailNotificationType",
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobGitSourceType",
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobHealthType",
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobNotificationSettingsType",
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobRunAsType",
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobScheduleType",
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksDbtTaskType",
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksLibrariesType",
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksNewClusterType",
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksPipelineTaskType",
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksPythonWheelTaskType",
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksSparkJarTaskType",
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksSparkPythonTaskType",
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksSparkSubmitTaskType",
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksSqlTaskType",
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTriggerType",
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobWebhookNorificationType",
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobRequestType",
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobResponseType",
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksListJobsResponseType",
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobInfoResponseType",
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobRunRequestType",
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobRunResponseType",
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputResponseType",
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksRunJobRequestType",
+        "importPath": "databricks.types.DatabricksJobTypes",
+        "description": "databricks.types.DatabricksJobTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksJobTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksRunJobResponseType",
+        "importPath": "databricks.types.DatabricksJobTypes",
+        "description": "databricks.types.DatabricksJobTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksJobTypes",
+        "documentation": {}
+    },
+    {
+        "label": "Cluster",
+        "kind": 6,
+        "importPath": "databricks.compute.cluster.cluster",
+        "description": "databricks.compute.cluster.cluster",
+        "peekOfCode": "class Cluster:\n    _databricks: Databricks\n    _id: str\n    def __init__(\n        self,\n        databricks: Databricks,\n        id: str\n    ) -> None:\n        self._databricks = databricks\n        self._id = id",
+        "detail": "databricks.compute.cluster.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "kind": 6,
+        "importPath": "databricks.compute.commandExecution.command",
+        "description": "databricks.compute.commandExecution.command",
+        "peekOfCode": "class Command:\n    _command: str\n    _context: Context\n    _id: str\n    def __init__(\n        self,\n        command: str,\n        context: Context\n    ) -> None:\n        self._command = command",
+        "detail": "databricks.compute.commandExecution.command",
+        "documentation": {}
+    },
+    {
+        "label": "CommandExecution",
+        "kind": 6,
+        "importPath": "databricks.compute.commandExecution.commandExecution",
+        "description": "databricks.compute.commandExecution.commandExecution",
+        "peekOfCode": "class CommandExecution:\n    _command: str\n    _cluster: Cluster\n    _language: Language\n    _cmd: Command\n    _ctx: Context\n    def __init__(\n        self,\n        command: str,\n        cluster: Cluster,",
+        "detail": "databricks.compute.commandExecution.commandExecution",
+        "documentation": {}
+    },
+    {
+        "label": "Context",
+        "kind": 6,
+        "importPath": "databricks.compute.commandExecution.context",
+        "description": "databricks.compute.commandExecution.context",
+        "peekOfCode": "class Context:\n    _cluster: Cluster\n    _language: Language\n    _id: str\n    def __init__(\n        self,\n        cluster: Cluster,\n        language: Language=\"python\"\n    ) -> None:\n        self._cluster = cluster",
+        "detail": "databricks.compute.commandExecution.context",
+        "documentation": {}
+    },
+    {
+        "label": "Directory",
+        "kind": 6,
+        "importPath": "databricks.fileManagement.dbfs.directory",
+        "description": "databricks.fileManagement.dbfs.directory",
+        "peekOfCode": "class Directory(Repository):\n    def __init__(\n        self,\n        databricks: Databricks,\n        path: str\n    ) -> None:\n        super().__init__(databricks, path)\n    def __assert(self) -> None:\n        assert self.databricks.token, \"Invalid Databricks Token\"\n        assert self.databricks.url, \"Invalid Databricks Url\"",
+        "detail": "databricks.fileManagement.dbfs.directory",
+        "documentation": {}
+    },
+    {
+        "label": "FileContent",
+        "kind": 6,
+        "importPath": "databricks.fileManagement.dbfs.file",
+        "description": "databricks.fileManagement.dbfs.file",
+        "peekOfCode": "class FileContent:\n    _content: Union[str, bytes]\n    def __init__(\n        self,\n        content: Union[str, bytes]\n    ) -> None:\n        self._content = content\n    @property\n    def content(self) -> Union[str, bytes]:\n        return self._content",
+        "detail": "databricks.fileManagement.dbfs.file",
+        "documentation": {}
+    },
+    {
+        "label": "FileContentDownloaderState",
+        "kind": 6,
+        "importPath": "databricks.fileManagement.dbfs.file",
+        "description": "databricks.fileManagement.dbfs.file",
+        "peekOfCode": "class FileContentDownloaderState(Enum):\n    PENDING=\"PENDING\"\n    RUNNING=\"RUNNING\"\n    ERROR=\"ERROR\"\n    FINISHED=\"FINISHED\"\nclass FileContentDownloader(Thread):\n    _id: int\n    _file: 'File'\n    _content: Union[DatabricksFileGetContentResponseType, None]= None\n    _threadState: FileContentDownloaderState= FileContentDownloaderState.PENDING",
+        "detail": "databricks.fileManagement.dbfs.file",
+        "documentation": {}
+    },
+    {
+        "label": "FileContentDownloader",
+        "kind": 6,
+        "importPath": "databricks.fileManagement.dbfs.file",
+        "description": "databricks.fileManagement.dbfs.file",
+        "peekOfCode": "class FileContentDownloader(Thread):\n    _id: int\n    _file: 'File'\n    _content: Union[DatabricksFileGetContentResponseType, None]= None\n    _threadState: FileContentDownloaderState= FileContentDownloaderState.PENDING\n    _offset: int\n    def __init__(\n        self,\n        id: int,\n        file: 'File',",
+        "detail": "databricks.fileManagement.dbfs.file",
+        "documentation": {}
+    },
+    {
+        "label": "FileContentDownloaderManager",
+        "kind": 6,
+        "importPath": "databricks.fileManagement.dbfs.file",
+        "description": "databricks.fileManagement.dbfs.file",
+        "peekOfCode": "class FileContentDownloaderManager:\n    _contentArray: List[str]\n    _file: 'File'\n    _fileContent: List[str]\n    _fileSize: int\n    _maxWorkers: int\n    _workers: List[FileContentDownloader]\n    def __init__(\n        self,\n        file: 'File',",
+        "detail": "databricks.fileManagement.dbfs.file",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "kind": 6,
+        "importPath": "databricks.fileManagement.dbfs.file",
+        "description": "databricks.fileManagement.dbfs.file",
+        "peekOfCode": "class File(Repository):\n    _encoding: str\n    def __init__(\n        self,\n        databricks: Databricks,\n        path: str,\n        encoding: str='utf-8'\n    ) -> None:\n        super().__init__(databricks, path)\n        self._encoding = encoding",
+        "detail": "databricks.fileManagement.dbfs.file",
+        "documentation": {}
+    },
+    {
+        "label": "Repository",
+        "kind": 6,
+        "importPath": "databricks.fileManagement.dbfs.repository",
+        "description": "databricks.fileManagement.dbfs.repository",
+        "peekOfCode": "class Repository:\n    _databricks: Databricks\n    _path: RepositoryPath\n    def __init__(\n        self,\n        databricks: Databricks,\n        path: str\n    ) -> None:\n        self._databricks = databricks\n        self._path = RepositoryPath(path)",
+        "detail": "databricks.fileManagement.dbfs.repository",
+        "documentation": {}
+    },
+    {
+        "label": "Directory",
+        "kind": 6,
+        "importPath": "databricks.fileManagement.local.directory",
+        "description": "databricks.fileManagement.local.directory",
+        "peekOfCode": "class Directory(Repository):\n    def __init__(\n        self,\n        path: str\n    ) -> None:\n        super().__init__(path)\n    def listDir(self) -> List[str]:\n        return listdir(self._path.repositoryPath)\n    def create(self) -> bool:\n        makedirs(self.path, exist_ok=True)",
+        "detail": "databricks.fileManagement.local.directory",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "kind": 6,
+        "importPath": "databricks.fileManagement.local.file",
+        "description": "databricks.fileManagement.local.file",
+        "peekOfCode": "class File(Repository):\n    def __init__(\n        self,\n        path: str\n    ) -> None:\n        super().__init__(path)\n    def __write(\n            self,\n        content: Union[List[str], str],\n        mode: Literal[\"w\", \"w+\", \"wt\", \"tw\", \"a\", \"at\", \"ta\", \"x\", \"xt\", \"tx\"]='w+',",
+        "detail": "databricks.fileManagement.local.file",
+        "documentation": {}
+    },
+    {
+        "label": "Repository",
+        "kind": 6,
+        "importPath": "databricks.fileManagement.local.repository",
+        "description": "databricks.fileManagement.local.repository",
+        "peekOfCode": "class Repository:\n    _path: RepositoryPath\n    def __init__(\n        self,\n        path: str\n    ) -> None:\n        self._path = RepositoryPath(path)\n    @property\n    def path(self) -> str:\n        return self._path.toString()",
+        "detail": "databricks.fileManagement.local.repository",
+        "documentation": {}
+    },
+    {
+        "label": "RepositoryPath",
+        "kind": 6,
+        "importPath": "databricks.fileManagement.path",
+        "description": "databricks.fileManagement.path",
+        "peekOfCode": "class RepositoryPath:\n    _repositoryPath: str\n    def __init__(\n        self,\n        repositoryPath: str\n    ) -> None:\n        self._repositoryPath = repositoryPath\n    def __str__(self) -> str:\n        return self._repositoryPath\n    @property",
+        "detail": "databricks.fileManagement.path",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateCommandResponseType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksCommandExecution",
+        "description": "databricks.types.DatabricksCommandExecution",
+        "peekOfCode": "class DatabricksCreateCommandResponseType(TypedDict):\n    id: str\nclass DatabricksDeleteCommandResponseType(TypedDict):\n    clusterId: str\n    contextId: str\nclass DatabricksCommandStatusResponseType(TypedDict):\n    id: str\n    status: Literal[\"Running\", \"Pending\", \"Error\"]\nclass DatabricksRunCommandResponseType(TypedDict):\n    id: str",
+        "detail": "databricks.types.DatabricksCommandExecution",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksDeleteCommandResponseType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksCommandExecution",
+        "description": "databricks.types.DatabricksCommandExecution",
+        "peekOfCode": "class DatabricksDeleteCommandResponseType(TypedDict):\n    clusterId: str\n    contextId: str\nclass DatabricksCommandStatusResponseType(TypedDict):\n    id: str\n    status: Literal[\"Running\", \"Pending\", \"Error\"]\nclass DatabricksRunCommandResponseType(TypedDict):\n    id: str\nclass DatabricksGetCommandStatusResponseResultsType(TypedDict):\n    resultType: Literal[\"error\", \"image\", \"images\", \"table\", \"text\"]",
+        "detail": "databricks.types.DatabricksCommandExecution",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCommandStatusResponseType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksCommandExecution",
+        "description": "databricks.types.DatabricksCommandExecution",
+        "peekOfCode": "class DatabricksCommandStatusResponseType(TypedDict):\n    id: str\n    status: Literal[\"Running\", \"Pending\", \"Error\"]\nclass DatabricksRunCommandResponseType(TypedDict):\n    id: str\nclass DatabricksGetCommandStatusResponseResultsType(TypedDict):\n    resultType: Literal[\"error\", \"image\", \"images\", \"table\", \"text\"]\n    summary: str\n    cause: str\n    fileName: str",
+        "detail": "databricks.types.DatabricksCommandExecution",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksRunCommandResponseType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksCommandExecution",
+        "description": "databricks.types.DatabricksCommandExecution",
+        "peekOfCode": "class DatabricksRunCommandResponseType(TypedDict):\n    id: str\nclass DatabricksGetCommandStatusResponseResultsType(TypedDict):\n    resultType: Literal[\"error\", \"image\", \"images\", \"table\", \"text\"]\n    summary: str\n    cause: str\n    fileName: str\n    fileNames: str\n    data: Dict[str, str]\n    schema: List[Dict[str, str]]",
+        "detail": "databricks.types.DatabricksCommandExecution",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksGetCommandStatusResponseResultsType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksCommandExecution",
+        "description": "databricks.types.DatabricksCommandExecution",
+        "peekOfCode": "class DatabricksGetCommandStatusResponseResultsType(TypedDict):\n    resultType: Literal[\"error\", \"image\", \"images\", \"table\", \"text\"]\n    summary: str\n    cause: str\n    fileName: str\n    fileNames: str\n    data: Dict[str, str]\n    schema: List[Dict[str, str]]\n    truncated: bool\n    isJsonSchema: bool",
+        "detail": "databricks.types.DatabricksCommandExecution",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksGetCommandStatusResponseType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksCommandExecution",
+        "description": "databricks.types.DatabricksCommandExecution",
+        "peekOfCode": "class DatabricksGetCommandStatusResponseType(TypedDict):\n    id: str\n    status: Literal[\"Cancelled\", \"Cancelling\", \"Error\", \"Finished\", \"Queued\", \"Running\"]\n    results: DatabricksGetCommandStatusResponseResultsType",
+        "detail": "databricks.types.DatabricksCommandExecution",
+        "documentation": {}
+    },
+    {
+        "label": "Language",
+        "kind": 5,
+        "importPath": "databricks.types.DatabricksCommandExecution",
+        "description": "databricks.types.DatabricksCommandExecution",
+        "peekOfCode": "Language = Literal[\"python\", \"scala\", \"sql\"]\n# class Language(Enum):\n#     PYTHON=\"python\"\n#     SCALA=\"scala\"\n#     SQL=\"sql\"\nclass DatabricksCreateCommandResponseType(TypedDict):\n    id: str\nclass DatabricksDeleteCommandResponseType(TypedDict):\n    clusterId: str\n    contextId: str",
+        "detail": "databricks.types.DatabricksCommandExecution",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksRepositoryPropertiesType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksFileManagementRepositoryTypes",
+        "description": "databricks.types.DatabricksFileManagementRepositoryTypes",
+        "peekOfCode": "class DatabricksRepositoryPropertiesType(TypedDict):\n    path: str\n    is_dir: bool\n    file_size: int\n    modification_time: int\nclass DatabricksFileGetContentResponseType(TypedDict):\n    bytes_read: int\n    data: str\nclass DatabricksListDirResponseType(TypedDict):\n    files: List[DatabricksRepositoryPropertiesType]",
+        "detail": "databricks.types.DatabricksFileManagementRepositoryTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksFileGetContentResponseType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksFileManagementRepositoryTypes",
+        "description": "databricks.types.DatabricksFileManagementRepositoryTypes",
+        "peekOfCode": "class DatabricksFileGetContentResponseType(TypedDict):\n    bytes_read: int\n    data: str\nclass DatabricksListDirResponseType(TypedDict):\n    files: List[DatabricksRepositoryPropertiesType]",
+        "detail": "databricks.types.DatabricksFileManagementRepositoryTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksListDirResponseType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksFileManagementRepositoryTypes",
+        "description": "databricks.types.DatabricksFileManagementRepositoryTypes",
+        "peekOfCode": "class DatabricksListDirResponseType(TypedDict):\n    files: List[DatabricksRepositoryPropertiesType]",
+        "detail": "databricks.types.DatabricksFileManagementRepositoryTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksDependsOnType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksDependsOnType(TypedDict):\n    task_key: str\nclass DatabricksCreateJobTasksNewClusterAzureAttrLogAnalyticsInfoType(TypedDict):\n    log_analytics_workspace_id: str\n    log_analytics_primary_key: str\nclass DatabricksCreateJobTasksNewClusterAzureAttrType(TypedDict):\n    log_analytics_info: DatabricksCreateJobTasksNewClusterAzureAttrLogAnalyticsInfoType\n    first_on_demand: int\n    availability: Literal[\"SPOT_AZURE\", \"ON_DEMAND_AZURE\", \"SPOT_WITH_FALLBACK_AZURE\"]\n    spot_bid_max_price: float",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksNewClusterAzureAttrLogAnalyticsInfoType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksNewClusterAzureAttrLogAnalyticsInfoType(TypedDict):\n    log_analytics_workspace_id: str\n    log_analytics_primary_key: str\nclass DatabricksCreateJobTasksNewClusterAzureAttrType(TypedDict):\n    log_analytics_info: DatabricksCreateJobTasksNewClusterAzureAttrLogAnalyticsInfoType\n    first_on_demand: int\n    availability: Literal[\"SPOT_AZURE\", \"ON_DEMAND_AZURE\", \"SPOT_WITH_FALLBACK_AZURE\"]\n    spot_bid_max_price: float\nclass DatabricksCreateJobTasksNewClusterClusterLogInfoDBFSType(TypedDict):\n    destination: str",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksNewClusterAzureAttrType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksNewClusterAzureAttrType(TypedDict):\n    log_analytics_info: DatabricksCreateJobTasksNewClusterAzureAttrLogAnalyticsInfoType\n    first_on_demand: int\n    availability: Literal[\"SPOT_AZURE\", \"ON_DEMAND_AZURE\", \"SPOT_WITH_FALLBACK_AZURE\"]\n    spot_bid_max_price: float\nclass DatabricksCreateJobTasksNewClusterClusterLogInfoDBFSType(TypedDict):\n    destination: str\nclass DatabricksCreateJobTasksNewClusterClusterLogInfoType(TypedDict):\n    dbfs: DatabricksCreateJobTasksNewClusterClusterLogInfoDBFSType\nclass DatabricksCreateJobTasksNewClusterInitScriptsWorkspaceType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksNewClusterClusterLogInfoDBFSType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksNewClusterClusterLogInfoDBFSType(TypedDict):\n    destination: str\nclass DatabricksCreateJobTasksNewClusterClusterLogInfoType(TypedDict):\n    dbfs: DatabricksCreateJobTasksNewClusterClusterLogInfoDBFSType\nclass DatabricksCreateJobTasksNewClusterInitScriptsWorkspaceType(TypedDict):\n    destination: str\nclass DatabricksCreateJobTasksNewClusterInitScriptsType(TypedDict):\n    workspace: DatabricksCreateJobTasksNewClusterInitScriptsWorkspaceType\nclass DatabricksCreateJobTasksNewClusterWorkloadClientsType(TypedDict):\n    notebooks: bool",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksNewClusterClusterLogInfoType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksNewClusterClusterLogInfoType(TypedDict):\n    dbfs: DatabricksCreateJobTasksNewClusterClusterLogInfoDBFSType\nclass DatabricksCreateJobTasksNewClusterInitScriptsWorkspaceType(TypedDict):\n    destination: str\nclass DatabricksCreateJobTasksNewClusterInitScriptsType(TypedDict):\n    workspace: DatabricksCreateJobTasksNewClusterInitScriptsWorkspaceType\nclass DatabricksCreateJobTasksNewClusterWorkloadClientsType(TypedDict):\n    notebooks: bool\n    jobs: bool\nclass DatabricksCreateJobTasksNewClusterWorkloadType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksNewClusterInitScriptsWorkspaceType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksNewClusterInitScriptsWorkspaceType(TypedDict):\n    destination: str\nclass DatabricksCreateJobTasksNewClusterInitScriptsType(TypedDict):\n    workspace: DatabricksCreateJobTasksNewClusterInitScriptsWorkspaceType\nclass DatabricksCreateJobTasksNewClusterWorkloadClientsType(TypedDict):\n    notebooks: bool\n    jobs: bool\nclass DatabricksCreateJobTasksNewClusterWorkloadType(TypedDict):\n    clients: DatabricksCreateJobTasksNewClusterWorkloadClientsType\nclass DatabricksCreateJobTasksNewClusterDockerImageBasicAuthType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksNewClusterInitScriptsType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksNewClusterInitScriptsType(TypedDict):\n    workspace: DatabricksCreateJobTasksNewClusterInitScriptsWorkspaceType\nclass DatabricksCreateJobTasksNewClusterWorkloadClientsType(TypedDict):\n    notebooks: bool\n    jobs: bool\nclass DatabricksCreateJobTasksNewClusterWorkloadType(TypedDict):\n    clients: DatabricksCreateJobTasksNewClusterWorkloadClientsType\nclass DatabricksCreateJobTasksNewClusterDockerImageBasicAuthType(TypedDict):\n    username: str\n    password: str",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksNewClusterWorkloadClientsType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksNewClusterWorkloadClientsType(TypedDict):\n    notebooks: bool\n    jobs: bool\nclass DatabricksCreateJobTasksNewClusterWorkloadType(TypedDict):\n    clients: DatabricksCreateJobTasksNewClusterWorkloadClientsType\nclass DatabricksCreateJobTasksNewClusterDockerImageBasicAuthType(TypedDict):\n    username: str\n    password: str\nclass DatabricksCreateJobTasksNewClusterDockerImageType(TypedDict):\n    url: str",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksNewClusterWorkloadType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksNewClusterWorkloadType(TypedDict):\n    clients: DatabricksCreateJobTasksNewClusterWorkloadClientsType\nclass DatabricksCreateJobTasksNewClusterDockerImageBasicAuthType(TypedDict):\n    username: str\n    password: str\nclass DatabricksCreateJobTasksNewClusterDockerImageType(TypedDict):\n    url: str\n    basic_auth: DatabricksCreateJobTasksNewClusterDockerImageBasicAuthType\nclass DatabricksCreateJobTasksNewClusterAutoScaleType(TypedDict):\n    min_workers: int",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksNewClusterDockerImageBasicAuthType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksNewClusterDockerImageBasicAuthType(TypedDict):\n    username: str\n    password: str\nclass DatabricksCreateJobTasksNewClusterDockerImageType(TypedDict):\n    url: str\n    basic_auth: DatabricksCreateJobTasksNewClusterDockerImageBasicAuthType\nclass DatabricksCreateJobTasksNewClusterAutoScaleType(TypedDict):\n    min_workers: int\n    max_workers: int\nclass DatabricksCreateJobTasksNewClusterType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksNewClusterDockerImageType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksNewClusterDockerImageType(TypedDict):\n    url: str\n    basic_auth: DatabricksCreateJobTasksNewClusterDockerImageBasicAuthType\nclass DatabricksCreateJobTasksNewClusterAutoScaleType(TypedDict):\n    min_workers: int\n    max_workers: int\nclass DatabricksCreateJobTasksNewClusterType(TypedDict):\n    cluster_name: str\n    spark_version: str\n    spark_conf: Dict[str, str]",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksNewClusterAutoScaleType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksNewClusterAutoScaleType(TypedDict):\n    min_workers: int\n    max_workers: int\nclass DatabricksCreateJobTasksNewClusterType(TypedDict):\n    cluster_name: str\n    spark_version: str\n    spark_conf: Dict[str, str]\n    azure_attributes: DatabricksCreateJobTasksNewClusterAzureAttrType\n    node_type_id: str\n    driver_node_type_id: str",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksNewClusterType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksNewClusterType(TypedDict):\n    cluster_name: str\n    spark_version: str\n    spark_conf: Dict[str, str]\n    azure_attributes: DatabricksCreateJobTasksNewClusterAzureAttrType\n    node_type_id: str\n    driver_node_type_id: str\n    ssh_public_keys: List[str]\n    custom_tags: Dict[str, str]\n    cluster_log_conf: DatabricksCreateJobTasksNewClusterClusterLogInfoType",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksNotebookTaskType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksNotebookTaskType(TypedDict):\n    notebook_path: str\n    source: Literal[\"WORKSPACE\", \"GIT\"]\n    base_parameters: Dict[str, str]\nclass DatabricksCreateJobTasksSparkJarTaskType(TypedDict):\n    main_class_name: str\n    parameters: List[str]\nclass DatabricksCreateJobTasksSparkPythonTaskType(TypedDict):\n    python_file: str\n    source: Literal[\"WORKSPACE\", \"GIT\"]",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksSparkJarTaskType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksSparkJarTaskType(TypedDict):\n    main_class_name: str\n    parameters: List[str]\nclass DatabricksCreateJobTasksSparkPythonTaskType(TypedDict):\n    python_file: str\n    source: Literal[\"WORKSPACE\", \"GIT\"]\n    parameters: List[str]\nclass DatabricksCreateJobTasksSparkSubmitTaskType(TypedDict):\n    parameters: List[str]\nclass DatabricksCreateJobTasksPipelineTaskType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksSparkPythonTaskType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksSparkPythonTaskType(TypedDict):\n    python_file: str\n    source: Literal[\"WORKSPACE\", \"GIT\"]\n    parameters: List[str]\nclass DatabricksCreateJobTasksSparkSubmitTaskType(TypedDict):\n    parameters: List[str]\nclass DatabricksCreateJobTasksPipelineTaskType(TypedDict):\n    pipeline_id: str\n    full_refresh: bool\nclass DatabricksCreateJobTasksPythonWheelTaskType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksSparkSubmitTaskType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksSparkSubmitTaskType(TypedDict):\n    parameters: List[str]\nclass DatabricksCreateJobTasksPipelineTaskType(TypedDict):\n    pipeline_id: str\n    full_refresh: bool\nclass DatabricksCreateJobTasksPythonWheelTaskType(TypedDict):\n    package_name: str\n    entry_point: str\n    parameters: List[str]\n    named_parameters: Dict[str, str]",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksPipelineTaskType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksPipelineTaskType(TypedDict):\n    pipeline_id: str\n    full_refresh: bool\nclass DatabricksCreateJobTasksPythonWheelTaskType(TypedDict):\n    package_name: str\n    entry_point: str\n    parameters: List[str]\n    named_parameters: Dict[str, str]\nclass DatabricksCreateJobTasksSqlTaskQueryType(TypedDict):\n    query_id: str",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksPythonWheelTaskType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksPythonWheelTaskType(TypedDict):\n    package_name: str\n    entry_point: str\n    parameters: List[str]\n    named_parameters: Dict[str, str]\nclass DatabricksCreateJobTasksSqlTaskQueryType(TypedDict):\n    query_id: str\nclass DatabricksCreateJobTasksSqlTaskSubscriptionsType(TypedDict):\n    user_name: str\n    destination_id: str",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksSqlTaskQueryType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksSqlTaskQueryType(TypedDict):\n    query_id: str\nclass DatabricksCreateJobTasksSqlTaskSubscriptionsType(TypedDict):\n    user_name: str\n    destination_id: str\nclass DatabricksCreateJobTasksSqlTaskDashboardType(TypedDict):\n    dashboard_id: str\n    subscriptions: List[DatabricksCreateJobTasksSqlTaskSubscriptionsType]\n    custom_subject: str\n    pause_subscriptions: bool",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksSqlTaskSubscriptionsType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksSqlTaskSubscriptionsType(TypedDict):\n    user_name: str\n    destination_id: str\nclass DatabricksCreateJobTasksSqlTaskDashboardType(TypedDict):\n    dashboard_id: str\n    subscriptions: List[DatabricksCreateJobTasksSqlTaskSubscriptionsType]\n    custom_subject: str\n    pause_subscriptions: bool\nclass DatabricksCreateJobTasksSqlTaskAlertType(TypedDict):\n    alert_id: str",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksSqlTaskDashboardType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksSqlTaskDashboardType(TypedDict):\n    dashboard_id: str\n    subscriptions: List[DatabricksCreateJobTasksSqlTaskSubscriptionsType]\n    custom_subject: str\n    pause_subscriptions: bool\nclass DatabricksCreateJobTasksSqlTaskAlertType(TypedDict):\n    alert_id: str\n    subscriptions: List[DatabricksCreateJobTasksSqlTaskSubscriptionsType]\n    pause_subscriptions: bool\nclass DatabricksCreateJobTasksSqlTaskFileType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksSqlTaskAlertType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksSqlTaskAlertType(TypedDict):\n    alert_id: str\n    subscriptions: List[DatabricksCreateJobTasksSqlTaskSubscriptionsType]\n    pause_subscriptions: bool\nclass DatabricksCreateJobTasksSqlTaskFileType(TypedDict):\n    path: str\nclass DatabricksCreateJobTasksSqlTaskType(TypedDict):\n    query: DatabricksCreateJobTasksSqlTaskQueryType\n    dashboard: DatabricksCreateJobTasksSqlTaskDashboardType\n    alert: DatabricksCreateJobTasksSqlTaskAlertType",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksSqlTaskFileType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksSqlTaskFileType(TypedDict):\n    path: str\nclass DatabricksCreateJobTasksSqlTaskType(TypedDict):\n    query: DatabricksCreateJobTasksSqlTaskQueryType\n    dashboard: DatabricksCreateJobTasksSqlTaskDashboardType\n    alert: DatabricksCreateJobTasksSqlTaskAlertType\n    file: DatabricksCreateJobTasksSqlTaskFileType\n    parameters: Dict[str, str]\n    warehouse_id: str\nclass DatabricksCreateJobTasksDbtTaskType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksSqlTaskType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksSqlTaskType(TypedDict):\n    query: DatabricksCreateJobTasksSqlTaskQueryType\n    dashboard: DatabricksCreateJobTasksSqlTaskDashboardType\n    alert: DatabricksCreateJobTasksSqlTaskAlertType\n    file: DatabricksCreateJobTasksSqlTaskFileType\n    parameters: Dict[str, str]\n    warehouse_id: str\nclass DatabricksCreateJobTasksDbtTaskType(TypedDict):\n    project_directory: str\n    commands: List[str]",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksDbtTaskType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksDbtTaskType(TypedDict):\n    project_directory: str\n    commands: List[str]\n    schema: str\n    warehouse_id: str\n    catalog: str\n    profiles_directory: str\nclass DatabricksCreateJobTasksJobRunTaskType(TypedDict):\n    job_id: int\nclass DatabricksCreateJobTasksLibrariesPypiType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksJobRunTaskType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksJobRunTaskType(TypedDict):\n    job_id: int\nclass DatabricksCreateJobTasksLibrariesPypiType(TypedDict):\n    package: str\n    repo: str\nclass DatabricksCreateJobTasksLibrariesMavenType(TypedDict):\n    coordinates: str\n    repo: str\n    exclusions: List[str]\nclass DatabricksCreateJobTasksLibrariesCranType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksLibrariesPypiType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksLibrariesPypiType(TypedDict):\n    package: str\n    repo: str\nclass DatabricksCreateJobTasksLibrariesMavenType(TypedDict):\n    coordinates: str\n    repo: str\n    exclusions: List[str]\nclass DatabricksCreateJobTasksLibrariesCranType(TypedDict):\n    package: str\n    repo: str",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksLibrariesMavenType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksLibrariesMavenType(TypedDict):\n    coordinates: str\n    repo: str\n    exclusions: List[str]\nclass DatabricksCreateJobTasksLibrariesCranType(TypedDict):\n    package: str\n    repo: str\nclass DatabricksCreateJobTasksLibrariesType(TypedDict):\n    jar: str\n    egg: str",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksLibrariesCranType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksLibrariesCranType(TypedDict):\n    package: str\n    repo: str\nclass DatabricksCreateJobTasksLibrariesType(TypedDict):\n    jar: str\n    egg: str\n    pypi: DatabricksCreateJobTasksLibrariesPypiType\n    maven: DatabricksCreateJobTasksLibrariesMavenType\n    cran: DatabricksCreateJobTasksLibrariesCranType\n    whl: str",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksLibrariesType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksLibrariesType(TypedDict):\n    jar: str\n    egg: str\n    pypi: DatabricksCreateJobTasksLibrariesPypiType\n    maven: DatabricksCreateJobTasksLibrariesMavenType\n    cran: DatabricksCreateJobTasksLibrariesCranType\n    whl: str\nclass DatabricksCreateJobTasksEmailNotificationType(TypedDict):\n    on_start: List[str]\n    on_success: List[str]",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksEmailNotificationType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksEmailNotificationType(TypedDict):\n    on_start: List[str]\n    on_success: List[str]\n    on_failure: List[str]\n    on_duration_warning_threshold_exceeded: List[str]\nclass DatabricksCreateJobTasksNotificationSettingsType(TypedDict):\n    no_alert_for_skipped_runs: bool\n    no_alert_for_canceled_runs: bool\n    alert_on_last_attempt: bool\nclass DatabricksCreateJobTasksHealthRulesType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksNotificationSettingsType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksNotificationSettingsType(TypedDict):\n    no_alert_for_skipped_runs: bool\n    no_alert_for_canceled_runs: bool\n    alert_on_last_attempt: bool\nclass DatabricksCreateJobTasksHealthRulesType(TypedDict):\n    metric: str\n    op: str\n    value: int\nclass DatabricksCreateJobHealthType(TypedDict):\n    rules: List[DatabricksCreateJobTasksHealthRulesType]",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksHealthRulesType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksHealthRulesType(TypedDict):\n    metric: str\n    op: str\n    value: int\nclass DatabricksCreateJobHealthType(TypedDict):\n    rules: List[DatabricksCreateJobTasksHealthRulesType]\nclass DatabricksCreateJobTasksType(TypedDict):\n    task_key: str\n    description: str\n    depends_on: List[DatabricksCreateJobTasksDependsOnType]",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobHealthType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobHealthType(TypedDict):\n    rules: List[DatabricksCreateJobTasksHealthRulesType]\nclass DatabricksCreateJobTasksType(TypedDict):\n    task_key: str\n    description: str\n    depends_on: List[DatabricksCreateJobTasksDependsOnType]\n    run_if: Literal[\"ALL_SUCCESS\", \"AT_LEAST_ONE_SUCCESS\", \"NONE_FAILED\", \"ALL_DONE\", \"AT_LEAST_ONE_FAILED\", \"ALL_FAILED\"]\n    existing_cluster_id: str\n    new_cluster: DatabricksCreateJobTasksNewClusterType\n    job_cluster_key: str",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTasksType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTasksType(TypedDict):\n    task_key: str\n    description: str\n    depends_on: List[DatabricksCreateJobTasksDependsOnType]\n    run_if: Literal[\"ALL_SUCCESS\", \"AT_LEAST_ONE_SUCCESS\", \"NONE_FAILED\", \"ALL_DONE\", \"AT_LEAST_ONE_FAILED\", \"ALL_FAILED\"]\n    existing_cluster_id: str\n    new_cluster: DatabricksCreateJobTasksNewClusterType\n    job_cluster_key: str\n    notebook_task: DatabricksCreateJobTasksNotebookTaskType\n    spark_jar_task: DatabricksCreateJobTasksSparkJarTaskType",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobJobClusterType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobJobClusterType(TypedDict):\n    job_cluster_key: str\n    new_cluster: DatabricksCreateJobTasksNewClusterType\nclass DatabricksCreateJobEmailNotificationType(TypedDict):\n    on_start: List[str]\n    on_success: List[str]\n    on_failure: List[str]\n    on_duration_warning_threshold_exceeded: List[str]\n    no_alert_for_skipped_runs: bool\nclass DatabricksCreateJobTriggerFileArrivalType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobEmailNotificationType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobEmailNotificationType(TypedDict):\n    on_start: List[str]\n    on_success: List[str]\n    on_failure: List[str]\n    on_duration_warning_threshold_exceeded: List[str]\n    no_alert_for_skipped_runs: bool\nclass DatabricksCreateJobTriggerFileArrivalType(TypedDict):\n    url: str\n    min_time_between_triggers_seconds: int\n    wait_after_last_change_seconds: int",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTriggerFileArrivalType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTriggerFileArrivalType(TypedDict):\n    url: str\n    min_time_between_triggers_seconds: int\n    wait_after_last_change_seconds: int\nclass DatabricksCreateJobTriggerType(TypedDict):\n    pause_status: Literal[\"PAUSED\", \"UNPAUSED\"]\n    file_arrival: DatabricksCreateJobTriggerFileArrivalType\nclass DatabricksCreateJobWebhookNorificationStartType(TypedDict):\n    id: str\nclass DatabricksCreateJobWebhookNorificationSuccessType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobTriggerType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobTriggerType(TypedDict):\n    pause_status: Literal[\"PAUSED\", \"UNPAUSED\"]\n    file_arrival: DatabricksCreateJobTriggerFileArrivalType\nclass DatabricksCreateJobWebhookNorificationStartType(TypedDict):\n    id: str\nclass DatabricksCreateJobWebhookNorificationSuccessType(TypedDict):\n    id: str\nclass DatabricksCreateJobWebhookNorificationFailureType(TypedDict):\n    id: str\nclass DatabricksCreateJobWebhookNorificationDurationWarningType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobWebhookNorificationStartType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobWebhookNorificationStartType(TypedDict):\n    id: str\nclass DatabricksCreateJobWebhookNorificationSuccessType(TypedDict):\n    id: str\nclass DatabricksCreateJobWebhookNorificationFailureType(TypedDict):\n    id: str\nclass DatabricksCreateJobWebhookNorificationDurationWarningType(TypedDict):\n    id: str\nclass DatabricksCreateJobWebhookNorificationType(TypedDict):\n    on_start: List[DatabricksCreateJobWebhookNorificationStartType]",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobWebhookNorificationSuccessType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobWebhookNorificationSuccessType(TypedDict):\n    id: str\nclass DatabricksCreateJobWebhookNorificationFailureType(TypedDict):\n    id: str\nclass DatabricksCreateJobWebhookNorificationDurationWarningType(TypedDict):\n    id: str\nclass DatabricksCreateJobWebhookNorificationType(TypedDict):\n    on_start: List[DatabricksCreateJobWebhookNorificationStartType]\n    on_success: List[DatabricksCreateJobWebhookNorificationSuccessType]\n    on_failure: List[DatabricksCreateJobWebhookNorificationFailureType]",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobWebhookNorificationFailureType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobWebhookNorificationFailureType(TypedDict):\n    id: str\nclass DatabricksCreateJobWebhookNorificationDurationWarningType(TypedDict):\n    id: str\nclass DatabricksCreateJobWebhookNorificationType(TypedDict):\n    on_start: List[DatabricksCreateJobWebhookNorificationStartType]\n    on_success: List[DatabricksCreateJobWebhookNorificationSuccessType]\n    on_failure: List[DatabricksCreateJobWebhookNorificationFailureType]\n    on_duration_warning_threshold_exceeded: List[DatabricksCreateJobWebhookNorificationDurationWarningType]\nclass DatabricksCreateJobNotificationSettingsType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobWebhookNorificationDurationWarningType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobWebhookNorificationDurationWarningType(TypedDict):\n    id: str\nclass DatabricksCreateJobWebhookNorificationType(TypedDict):\n    on_start: List[DatabricksCreateJobWebhookNorificationStartType]\n    on_success: List[DatabricksCreateJobWebhookNorificationSuccessType]\n    on_failure: List[DatabricksCreateJobWebhookNorificationFailureType]\n    on_duration_warning_threshold_exceeded: List[DatabricksCreateJobWebhookNorificationDurationWarningType]\nclass DatabricksCreateJobNotificationSettingsType(TypedDict):\n    no_alert_for_skipped_runs: bool\n    no_alert_for_canceled_runs: bool",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobWebhookNorificationType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobWebhookNorificationType(TypedDict):\n    on_start: List[DatabricksCreateJobWebhookNorificationStartType]\n    on_success: List[DatabricksCreateJobWebhookNorificationSuccessType]\n    on_failure: List[DatabricksCreateJobWebhookNorificationFailureType]\n    on_duration_warning_threshold_exceeded: List[DatabricksCreateJobWebhookNorificationDurationWarningType]\nclass DatabricksCreateJobNotificationSettingsType(TypedDict):\n    no_alert_for_skipped_runs: bool\n    no_alert_for_canceled_runs: bool\nclass DatabricksCreateJobScheduleType(TypedDict):\n    quartz_cron_expression: str",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobNotificationSettingsType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobNotificationSettingsType(TypedDict):\n    no_alert_for_skipped_runs: bool\n    no_alert_for_canceled_runs: bool\nclass DatabricksCreateJobScheduleType(TypedDict):\n    quartz_cron_expression: str\n    timezone_id: str\n    pause_status: Literal[\"PAUSED\", \"UNPAUSED\"]\nclass DatabricksCreateJobContinuousType(TypedDict):\n    pause_status: Literal[\"PAUSED\", \"UNPAUSED\"]\nclass DatabricksCreateJobGitSourceType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobScheduleType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobScheduleType(TypedDict):\n    quartz_cron_expression: str\n    timezone_id: str\n    pause_status: Literal[\"PAUSED\", \"UNPAUSED\"]\nclass DatabricksCreateJobContinuousType(TypedDict):\n    pause_status: Literal[\"PAUSED\", \"UNPAUSED\"]\nclass DatabricksCreateJobGitSourceType(TypedDict):\n    git_url: str\n    git_provider: Literal[\"gitHub\", \"bitbucketCloud\", \"azureDevOpsServices\", \"gitHubEnterprise\", \"bitbucketServer\", \"gitLab\", \"gitLabEnterpriseEdition\", \"awsCodeCommit\"]\n    git_branch: str",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobContinuousType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobContinuousType(TypedDict):\n    pause_status: Literal[\"PAUSED\", \"UNPAUSED\"]\nclass DatabricksCreateJobGitSourceType(TypedDict):\n    git_url: str\n    git_provider: Literal[\"gitHub\", \"bitbucketCloud\", \"azureDevOpsServices\", \"gitHubEnterprise\", \"bitbucketServer\", \"gitLab\", \"gitLabEnterpriseEdition\", \"awsCodeCommit\"]\n    git_branch: str\n    git_tag: str\n    git_commit: str\nclass DatabricksCreateJobRunAsType(TypedDict):\n    user_name: str",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobGitSourceType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobGitSourceType(TypedDict):\n    git_url: str\n    git_provider: Literal[\"gitHub\", \"bitbucketCloud\", \"azureDevOpsServices\", \"gitHubEnterprise\", \"bitbucketServer\", \"gitLab\", \"gitLabEnterpriseEdition\", \"awsCodeCommit\"]\n    git_branch: str\n    git_tag: str\n    git_commit: str\nclass DatabricksCreateJobRunAsType(TypedDict):\n    user_name: str\n    service_principal_name: str\nclass DatabricksCreateJobAccessControlType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobRunAsType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobRunAsType(TypedDict):\n    user_name: str\n    service_principal_name: str\nclass DatabricksCreateJobAccessControlType(TypedDict):\n    user_name: str\n    group_name: str\n    service_principal_name: str\n    permission_level: Literal[\"CAN_MANAGE\", \"CAN_RESTART\", \"CAN_ATTACH_TO\", \"IS_OWNER\", \"CAN_MANAGE_RUN\", \"CAN_VIEW\", \"CAN_READ\", \"CAN_RUN\", \"CAN_EDIT\", \"CAN_USE\", \"CAN_MANAGE_STAGING_VERSIONS\", \"CAN_MANAGE_PRODUCTION_VERSIONS\", \"CAN_EDIT_METADATA\", \"CAN_VIEW_METADATA\", \"CAN_BIND\"]\nclass DatabricksCreateJobRequestType(TypedDict):\n    name: str",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobAccessControlType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobAccessControlType(TypedDict):\n    user_name: str\n    group_name: str\n    service_principal_name: str\n    permission_level: Literal[\"CAN_MANAGE\", \"CAN_RESTART\", \"CAN_ATTACH_TO\", \"IS_OWNER\", \"CAN_MANAGE_RUN\", \"CAN_VIEW\", \"CAN_READ\", \"CAN_RUN\", \"CAN_EDIT\", \"CAN_USE\", \"CAN_MANAGE_STAGING_VERSIONS\", \"CAN_MANAGE_PRODUCTION_VERSIONS\", \"CAN_EDIT_METADATA\", \"CAN_VIEW_METADATA\", \"CAN_BIND\"]\nclass DatabricksCreateJobRequestType(TypedDict):\n    name: str\n    tags: Dict[str, str]\n    tasks: List[DatabricksCreateJobTasksType]\n    job_clusters: List[DatabricksCreateJobJobClusterType]",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobRequestType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobRequestType(TypedDict):\n    name: str\n    tags: Dict[str, str]\n    tasks: List[DatabricksCreateJobTasksType]\n    job_clusters: List[DatabricksCreateJobJobClusterType]\n    email_notifications: DatabricksCreateJobEmailNotificationType\n    trigger: DatabricksCreateJobTriggerType\n    webhook_notifications: DatabricksCreateJobWebhookNorificationType\n    notification_settings: DatabricksCreateJobNotificationSettingsType\n    timeout_seconds: int",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksCreateJobResponseType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksCreateJobResponseType(TypedDict):\n    job_id: int\nclass DatabricksListJobsJobSettingsType(DatabricksCreateJobRequestType):\n    pass\nclass DatabricksListJobsJobType(TypedDict):\n    job_id: int\n    creator_user_name: str\n    settings: DatabricksListJobsJobSettingsType\n    created_time: int\nclass DatabricksListJobsResponseType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksListJobsJobSettingsType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksListJobsJobSettingsType(DatabricksCreateJobRequestType):\n    pass\nclass DatabricksListJobsJobType(TypedDict):\n    job_id: int\n    creator_user_name: str\n    settings: DatabricksListJobsJobSettingsType\n    created_time: int\nclass DatabricksListJobsResponseType(TypedDict):\n    jobs: List[DatabricksListJobsJobType]\n    has_more: bool",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksListJobsJobType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksListJobsJobType(TypedDict):\n    job_id: int\n    creator_user_name: str\n    settings: DatabricksListJobsJobSettingsType\n    created_time: int\nclass DatabricksListJobsResponseType(TypedDict):\n    jobs: List[DatabricksListJobsJobType]\n    has_more: bool\n    next_page_token: str\n    prev_page_token: str",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksListJobsResponseType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobManagerTypes",
+        "description": "databricks.types.DatabricksJobManagerTypes",
+        "peekOfCode": "class DatabricksListJobsResponseType(TypedDict):\n    jobs: List[DatabricksListJobsJobType]\n    has_more: bool\n    next_page_token: str\n    prev_page_token: str",
+        "detail": "databricks.types.DatabricksJobManagerTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputNotebookOutputType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputNotebookOutputType(TypedDict):\n    result: str\n    truncated: bool\nclass JobRunOutputSqlOutputQueryOutputSqlStatementType(TypedDict):\n    lookup_key: str\nclass JobRunOutputSqlOutputQueryOutputType(TypedDict):\n    query_text: str\n    warehouse_id: str\n    sql_statements: List[JobRunOutputSqlOutputQueryOutputSqlStatementType]\n    output_link: str",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputSqlOutputQueryOutputSqlStatementType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputSqlOutputQueryOutputSqlStatementType(TypedDict):\n    lookup_key: str\nclass JobRunOutputSqlOutputQueryOutputType(TypedDict):\n    query_text: str\n    warehouse_id: str\n    sql_statements: List[JobRunOutputSqlOutputQueryOutputSqlStatementType]\n    output_link: str\nclass JobRunOutputSqlOutputDashboardOutputWidgetErrorType(TypedDict):\n    message: str\nclass JobRunOutputSqlOutputDashboardOutputWidgetType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputSqlOutputQueryOutputType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputSqlOutputQueryOutputType(TypedDict):\n    query_text: str\n    warehouse_id: str\n    sql_statements: List[JobRunOutputSqlOutputQueryOutputSqlStatementType]\n    output_link: str\nclass JobRunOutputSqlOutputDashboardOutputWidgetErrorType(TypedDict):\n    message: str\nclass JobRunOutputSqlOutputDashboardOutputWidgetType(TypedDict):\n    widget_id: str\n    widget_title: str",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputSqlOutputDashboardOutputWidgetErrorType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputSqlOutputDashboardOutputWidgetErrorType(TypedDict):\n    message: str\nclass JobRunOutputSqlOutputDashboardOutputWidgetType(TypedDict):\n    widget_id: str\n    widget_title: str\n    output_link: str\n    status: Literal[\"PENDING\", \"RUNNING\", \"SUCCESS\", \"FAILED\", \"CANCELLED\"]\n    error: JobRunOutputSqlOutputDashboardOutputWidgetErrorType\n    start_time: int\n    end_time: int",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputSqlOutputDashboardOutputWidgetType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputSqlOutputDashboardOutputWidgetType(TypedDict):\n    widget_id: str\n    widget_title: str\n    output_link: str\n    status: Literal[\"PENDING\", \"RUNNING\", \"SUCCESS\", \"FAILED\", \"CANCELLED\"]\n    error: JobRunOutputSqlOutputDashboardOutputWidgetErrorType\n    start_time: int\n    end_time: int\nclass JobRunOutputSqlOutputDashboardOutputType(TypedDict):\n    widgets: List[JobRunOutputSqlOutputDashboardOutputWidgetType]",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputSqlOutputDashboardOutputType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputSqlOutputDashboardOutputType(TypedDict):\n    widgets: List[JobRunOutputSqlOutputDashboardOutputWidgetType]\n    warehouse_id: str\nclass JobRunOutputSqlOutputAlertOutputSqlStatementType(TypedDict):\n    lookup_key: str\nclass JobRunOutputSqlOutputAlertOutputType(TypedDict):\n    query_text: str\n    warehouse_id: str\n    sql_statements: List[JobRunOutputSqlOutputAlertOutputSqlStatementType]\n    output_link: str",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputSqlOutputAlertOutputSqlStatementType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputSqlOutputAlertOutputSqlStatementType(TypedDict):\n    lookup_key: str\nclass JobRunOutputSqlOutputAlertOutputType(TypedDict):\n    query_text: str\n    warehouse_id: str\n    sql_statements: List[JobRunOutputSqlOutputAlertOutputSqlStatementType]\n    output_link: str\n    alert_state: Literal[\"UNKNOWN\", \"OK\", \"TRIGGERED\"]\nclass JobRunOutputSqlOutputType(TypedDict):\n    query_output: JobRunOutputSqlOutputQueryOutputType",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputSqlOutputAlertOutputType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputSqlOutputAlertOutputType(TypedDict):\n    query_text: str\n    warehouse_id: str\n    sql_statements: List[JobRunOutputSqlOutputAlertOutputSqlStatementType]\n    output_link: str\n    alert_state: Literal[\"UNKNOWN\", \"OK\", \"TRIGGERED\"]\nclass JobRunOutputSqlOutputType(TypedDict):\n    query_output: JobRunOutputSqlOutputQueryOutputType\n    dashboard_output: JobRunOutputSqlOutputDashboardOutputType\n    alert_output: JobRunOutputSqlOutputAlertOutputType",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputSqlOutputType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputSqlOutputType(TypedDict):\n    query_output: JobRunOutputSqlOutputQueryOutputType\n    dashboard_output: JobRunOutputSqlOutputDashboardOutputType\n    alert_output: JobRunOutputSqlOutputAlertOutputType\nclass JobRunOutputDbtOutputType(TypedDict):\n    artifacts_link: str\n    artifacts_headers: Dict[str, str]\nclass JobRunOutputRunJobOutputType(TypedDict):\n    run_id: int\nclass JobRunOutputMetadataStateType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputDbtOutputType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputDbtOutputType(TypedDict):\n    artifacts_link: str\n    artifacts_headers: Dict[str, str]\nclass JobRunOutputRunJobOutputType(TypedDict):\n    run_id: int\nclass JobRunOutputMetadataStateType(TypedDict):\n    life_cycle_state: Literal[\"PENDING\", \"RUNNING\", \"TERMINATING\", \"TERMINATED\", \"SKIPPED\", \"INTERNAL_ERROR\", \"BLOCKED\", \"WAITING_FOR_RETRY\"]\n    result_state: Literal[\"SUCCESS\", \"FAILED\", \"TIMEDOUT\", \"CANCELED\", \"MAXIMUM_CONCURRENT_RUNS_REACHED\", \"EXCLUDED\", \"SUCCESS_WITH_FAILURES\", \"UPSTREAM_FAILED\", \"UPSTREAM_CANCELED\"]\n    user_cancelled_or_timedout: bool\n    state_message: str",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputRunJobOutputType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputRunJobOutputType(TypedDict):\n    run_id: int\nclass JobRunOutputMetadataStateType(TypedDict):\n    life_cycle_state: Literal[\"PENDING\", \"RUNNING\", \"TERMINATING\", \"TERMINATED\", \"SKIPPED\", \"INTERNAL_ERROR\", \"BLOCKED\", \"WAITING_FOR_RETRY\"]\n    result_state: Literal[\"SUCCESS\", \"FAILED\", \"TIMEDOUT\", \"CANCELED\", \"MAXIMUM_CONCURRENT_RUNS_REACHED\", \"EXCLUDED\", \"SUCCESS_WITH_FAILURES\", \"UPSTREAM_FAILED\", \"UPSTREAM_CANCELED\"]\n    user_cancelled_or_timedout: bool\n    state_message: str\nclass JobRunOutputMetadataScheduleType(TypedDict):\n    quartz_cron_expression: str\n    timezone_id: str",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataStateType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataStateType(TypedDict):\n    life_cycle_state: Literal[\"PENDING\", \"RUNNING\", \"TERMINATING\", \"TERMINATED\", \"SKIPPED\", \"INTERNAL_ERROR\", \"BLOCKED\", \"WAITING_FOR_RETRY\"]\n    result_state: Literal[\"SUCCESS\", \"FAILED\", \"TIMEDOUT\", \"CANCELED\", \"MAXIMUM_CONCURRENT_RUNS_REACHED\", \"EXCLUDED\", \"SUCCESS_WITH_FAILURES\", \"UPSTREAM_FAILED\", \"UPSTREAM_CANCELED\"]\n    user_cancelled_or_timedout: bool\n    state_message: str\nclass JobRunOutputMetadataScheduleType(TypedDict):\n    quartz_cron_expression: str\n    timezone_id: str\n    pause_status: Literal[\"PAUSED\", \"UNPAUSED\"]\nclass JobRunOutputMetadataContinuousType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataScheduleType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataScheduleType(TypedDict):\n    quartz_cron_expression: str\n    timezone_id: str\n    pause_status: Literal[\"PAUSED\", \"UNPAUSED\"]\nclass JobRunOutputMetadataContinuousType(TypedDict):\n    pause_status: Literal[\"PAUSED\", \"UNPAUSED\"]\nclass JobRunOutputMetadataTaskStateType(TypedDict):\n    life_cycle_state: Literal[\"PENDING\", \"RUNNING\", \"TERMINATING\", \"TERMINATED\", \"SKIPPED\", \"INTERNAL_ERROR\", \"BLOCKED\", \"WAITING_FOR_RETRY\"]\n    result_state: Literal[\"SUCCESS\", \"FAILED\", \"TIMEDOUT\", \"CANCELED\", \"MAXIMUM_CONCURRENT_RUNS_REACHED\", \"EXCLUDED\", \"SUCCESS_WITH_FAILURES\", \"UPSTREAM_FAILED\", \"UPSTREAM_CANCELED\"]\n    user_cancelled_or_timedout: bool",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataContinuousType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataContinuousType(TypedDict):\n    pause_status: Literal[\"PAUSED\", \"UNPAUSED\"]\nclass JobRunOutputMetadataTaskStateType(TypedDict):\n    life_cycle_state: Literal[\"PENDING\", \"RUNNING\", \"TERMINATING\", \"TERMINATED\", \"SKIPPED\", \"INTERNAL_ERROR\", \"BLOCKED\", \"WAITING_FOR_RETRY\"]\n    result_state: Literal[\"SUCCESS\", \"FAILED\", \"TIMEDOUT\", \"CANCELED\", \"MAXIMUM_CONCURRENT_RUNS_REACHED\", \"EXCLUDED\", \"SUCCESS_WITH_FAILURES\", \"UPSTREAM_FAILED\", \"UPSTREAM_CANCELED\"]\n    user_cancelled_or_timedout: bool\n    state_message: str\nclass JobRunOutputMetadataTaskDependsOnType(TypedDict):\n    task_key: str\nclass JobRunOutputMetadataTaskNewClusterType(DatabricksCreateJobTasksNewClusterType): pass",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataTaskStateType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataTaskStateType(TypedDict):\n    life_cycle_state: Literal[\"PENDING\", \"RUNNING\", \"TERMINATING\", \"TERMINATED\", \"SKIPPED\", \"INTERNAL_ERROR\", \"BLOCKED\", \"WAITING_FOR_RETRY\"]\n    result_state: Literal[\"SUCCESS\", \"FAILED\", \"TIMEDOUT\", \"CANCELED\", \"MAXIMUM_CONCURRENT_RUNS_REACHED\", \"EXCLUDED\", \"SUCCESS_WITH_FAILURES\", \"UPSTREAM_FAILED\", \"UPSTREAM_CANCELED\"]\n    user_cancelled_or_timedout: bool\n    state_message: str\nclass JobRunOutputMetadataTaskDependsOnType(TypedDict):\n    task_key: str\nclass JobRunOutputMetadataTaskNewClusterType(DatabricksCreateJobTasksNewClusterType): pass\nclass JobRunOutputMetadataTaskLibraryType(DatabricksCreateJobTasksLibrariesType): pass\nclass JobRunOutputMetadataTaskNotebookTaskType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataTaskDependsOnType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataTaskDependsOnType(TypedDict):\n    task_key: str\nclass JobRunOutputMetadataTaskNewClusterType(DatabricksCreateJobTasksNewClusterType): pass\nclass JobRunOutputMetadataTaskLibraryType(DatabricksCreateJobTasksLibrariesType): pass\nclass JobRunOutputMetadataTaskNotebookTaskType(TypedDict):\n    notebook_path: str\n    source: Literal[\"WORKSPACE\", \"GIT\"]\n    base_parameters: Dict[str, str]\nclass JobRunOutputMetadataTaskSparkJarTaskType(DatabricksCreateJobTasksSparkJarTaskType): pass\nclass JobRunOutputMetadataTaskSparkPythonTaskType(DatabricksCreateJobTasksSparkPythonTaskType): pass",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataTaskNewClusterType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataTaskNewClusterType(DatabricksCreateJobTasksNewClusterType): pass\nclass JobRunOutputMetadataTaskLibraryType(DatabricksCreateJobTasksLibrariesType): pass\nclass JobRunOutputMetadataTaskNotebookTaskType(TypedDict):\n    notebook_path: str\n    source: Literal[\"WORKSPACE\", \"GIT\"]\n    base_parameters: Dict[str, str]\nclass JobRunOutputMetadataTaskSparkJarTaskType(DatabricksCreateJobTasksSparkJarTaskType): pass\nclass JobRunOutputMetadataTaskSparkPythonTaskType(DatabricksCreateJobTasksSparkPythonTaskType): pass\nclass JobRunOutputMetadataTaskSparkSubmitTaskType(DatabricksCreateJobTasksSparkSubmitTaskType): pass\nclass JobRunOutputMetadataTaskPipelineTaskType(DatabricksCreateJobTasksPipelineTaskType): pass",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataTaskLibraryType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataTaskLibraryType(DatabricksCreateJobTasksLibrariesType): pass\nclass JobRunOutputMetadataTaskNotebookTaskType(TypedDict):\n    notebook_path: str\n    source: Literal[\"WORKSPACE\", \"GIT\"]\n    base_parameters: Dict[str, str]\nclass JobRunOutputMetadataTaskSparkJarTaskType(DatabricksCreateJobTasksSparkJarTaskType): pass\nclass JobRunOutputMetadataTaskSparkPythonTaskType(DatabricksCreateJobTasksSparkPythonTaskType): pass\nclass JobRunOutputMetadataTaskSparkSubmitTaskType(DatabricksCreateJobTasksSparkSubmitTaskType): pass\nclass JobRunOutputMetadataTaskPipelineTaskType(DatabricksCreateJobTasksPipelineTaskType): pass\nclass JobRunOutputMetadataTaskPythonWheelTaskType(DatabricksCreateJobTasksPythonWheelTaskType): pass",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataTaskNotebookTaskType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataTaskNotebookTaskType(TypedDict):\n    notebook_path: str\n    source: Literal[\"WORKSPACE\", \"GIT\"]\n    base_parameters: Dict[str, str]\nclass JobRunOutputMetadataTaskSparkJarTaskType(DatabricksCreateJobTasksSparkJarTaskType): pass\nclass JobRunOutputMetadataTaskSparkPythonTaskType(DatabricksCreateJobTasksSparkPythonTaskType): pass\nclass JobRunOutputMetadataTaskSparkSubmitTaskType(DatabricksCreateJobTasksSparkSubmitTaskType): pass\nclass JobRunOutputMetadataTaskPipelineTaskType(DatabricksCreateJobTasksPipelineTaskType): pass\nclass JobRunOutputMetadataTaskPythonWheelTaskType(DatabricksCreateJobTasksPythonWheelTaskType): pass\nclass JobRunOutputMetadataTaskSqlTaskType(DatabricksCreateJobTasksSqlTaskType): pass",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataTaskSparkJarTaskType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataTaskSparkJarTaskType(DatabricksCreateJobTasksSparkJarTaskType): pass\nclass JobRunOutputMetadataTaskSparkPythonTaskType(DatabricksCreateJobTasksSparkPythonTaskType): pass\nclass JobRunOutputMetadataTaskSparkSubmitTaskType(DatabricksCreateJobTasksSparkSubmitTaskType): pass\nclass JobRunOutputMetadataTaskPipelineTaskType(DatabricksCreateJobTasksPipelineTaskType): pass\nclass JobRunOutputMetadataTaskPythonWheelTaskType(DatabricksCreateJobTasksPythonWheelTaskType): pass\nclass JobRunOutputMetadataTaskSqlTaskType(DatabricksCreateJobTasksSqlTaskType): pass\nclass JobRunOutputMetadataTaskDbtTaskType(DatabricksCreateJobTasksDbtTaskType): pass\nclass JobRunOutputMetadataTaskRunJobTaskType(TypedDict):\n    job_id: int\nclass JobRunOutputMetadataTaskClusterInstanceType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataTaskSparkPythonTaskType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataTaskSparkPythonTaskType(DatabricksCreateJobTasksSparkPythonTaskType): pass\nclass JobRunOutputMetadataTaskSparkSubmitTaskType(DatabricksCreateJobTasksSparkSubmitTaskType): pass\nclass JobRunOutputMetadataTaskPipelineTaskType(DatabricksCreateJobTasksPipelineTaskType): pass\nclass JobRunOutputMetadataTaskPythonWheelTaskType(DatabricksCreateJobTasksPythonWheelTaskType): pass\nclass JobRunOutputMetadataTaskSqlTaskType(DatabricksCreateJobTasksSqlTaskType): pass\nclass JobRunOutputMetadataTaskDbtTaskType(DatabricksCreateJobTasksDbtTaskType): pass\nclass JobRunOutputMetadataTaskRunJobTaskType(TypedDict):\n    job_id: int\nclass JobRunOutputMetadataTaskClusterInstanceType(TypedDict):\n    cluster_id: str",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataTaskSparkSubmitTaskType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataTaskSparkSubmitTaskType(DatabricksCreateJobTasksSparkSubmitTaskType): pass\nclass JobRunOutputMetadataTaskPipelineTaskType(DatabricksCreateJobTasksPipelineTaskType): pass\nclass JobRunOutputMetadataTaskPythonWheelTaskType(DatabricksCreateJobTasksPythonWheelTaskType): pass\nclass JobRunOutputMetadataTaskSqlTaskType(DatabricksCreateJobTasksSqlTaskType): pass\nclass JobRunOutputMetadataTaskDbtTaskType(DatabricksCreateJobTasksDbtTaskType): pass\nclass JobRunOutputMetadataTaskRunJobTaskType(TypedDict):\n    job_id: int\nclass JobRunOutputMetadataTaskClusterInstanceType(TypedDict):\n    cluster_id: str\n    spark_context_id: str",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataTaskPipelineTaskType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataTaskPipelineTaskType(DatabricksCreateJobTasksPipelineTaskType): pass\nclass JobRunOutputMetadataTaskPythonWheelTaskType(DatabricksCreateJobTasksPythonWheelTaskType): pass\nclass JobRunOutputMetadataTaskSqlTaskType(DatabricksCreateJobTasksSqlTaskType): pass\nclass JobRunOutputMetadataTaskDbtTaskType(DatabricksCreateJobTasksDbtTaskType): pass\nclass JobRunOutputMetadataTaskRunJobTaskType(TypedDict):\n    job_id: int\nclass JobRunOutputMetadataTaskClusterInstanceType(TypedDict):\n    cluster_id: str\n    spark_context_id: str\nclass JobRunOutputMetadataTaskGitSourceType(DatabricksCreateJobGitSourceType): pass",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataTaskPythonWheelTaskType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataTaskPythonWheelTaskType(DatabricksCreateJobTasksPythonWheelTaskType): pass\nclass JobRunOutputMetadataTaskSqlTaskType(DatabricksCreateJobTasksSqlTaskType): pass\nclass JobRunOutputMetadataTaskDbtTaskType(DatabricksCreateJobTasksDbtTaskType): pass\nclass JobRunOutputMetadataTaskRunJobTaskType(TypedDict):\n    job_id: int\nclass JobRunOutputMetadataTaskClusterInstanceType(TypedDict):\n    cluster_id: str\n    spark_context_id: str\nclass JobRunOutputMetadataTaskGitSourceType(DatabricksCreateJobGitSourceType): pass\nclass JobRunOutputMetadataTaskType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataTaskSqlTaskType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataTaskSqlTaskType(DatabricksCreateJobTasksSqlTaskType): pass\nclass JobRunOutputMetadataTaskDbtTaskType(DatabricksCreateJobTasksDbtTaskType): pass\nclass JobRunOutputMetadataTaskRunJobTaskType(TypedDict):\n    job_id: int\nclass JobRunOutputMetadataTaskClusterInstanceType(TypedDict):\n    cluster_id: str\n    spark_context_id: str\nclass JobRunOutputMetadataTaskGitSourceType(DatabricksCreateJobGitSourceType): pass\nclass JobRunOutputMetadataTaskType(TypedDict):\n    run_id: int",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataTaskDbtTaskType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataTaskDbtTaskType(DatabricksCreateJobTasksDbtTaskType): pass\nclass JobRunOutputMetadataTaskRunJobTaskType(TypedDict):\n    job_id: int\nclass JobRunOutputMetadataTaskClusterInstanceType(TypedDict):\n    cluster_id: str\n    spark_context_id: str\nclass JobRunOutputMetadataTaskGitSourceType(DatabricksCreateJobGitSourceType): pass\nclass JobRunOutputMetadataTaskType(TypedDict):\n    run_id: int\n    task_key: str",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataTaskRunJobTaskType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataTaskRunJobTaskType(TypedDict):\n    job_id: int\nclass JobRunOutputMetadataTaskClusterInstanceType(TypedDict):\n    cluster_id: str\n    spark_context_id: str\nclass JobRunOutputMetadataTaskGitSourceType(DatabricksCreateJobGitSourceType): pass\nclass JobRunOutputMetadataTaskType(TypedDict):\n    run_id: int\n    task_key: str\n    description: str",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataTaskClusterInstanceType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataTaskClusterInstanceType(TypedDict):\n    cluster_id: str\n    spark_context_id: str\nclass JobRunOutputMetadataTaskGitSourceType(DatabricksCreateJobGitSourceType): pass\nclass JobRunOutputMetadataTaskType(TypedDict):\n    run_id: int\n    task_key: str\n    description: str\n    run_if: Literal[\"ALL_SUCCESS\", \"AT_LEAST_ONE_SUCCESS\", \"NONE_FAILED\", \"ALL_DONE\", \"AT_LEAST_ONE_FAILED\", \"ALL_FAILED\"]\n    state: JobRunOutputMetadataTaskStateType",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataTaskGitSourceType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataTaskGitSourceType(DatabricksCreateJobGitSourceType): pass\nclass JobRunOutputMetadataTaskType(TypedDict):\n    run_id: int\n    task_key: str\n    description: str\n    run_if: Literal[\"ALL_SUCCESS\", \"AT_LEAST_ONE_SUCCESS\", \"NONE_FAILED\", \"ALL_DONE\", \"AT_LEAST_ONE_FAILED\", \"ALL_FAILED\"]\n    state: JobRunOutputMetadataTaskStateType\n    depends_on: List[JobRunOutputMetadataTaskDependsOnType]\n    existing_cluster_id: str\n    new_cluster: JobRunOutputMetadataTaskNewClusterType",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataTaskType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataTaskType(TypedDict):\n    run_id: int\n    task_key: str\n    description: str\n    run_if: Literal[\"ALL_SUCCESS\", \"AT_LEAST_ONE_SUCCESS\", \"NONE_FAILED\", \"ALL_DONE\", \"AT_LEAST_ONE_FAILED\", \"ALL_FAILED\"]\n    state: JobRunOutputMetadataTaskStateType\n    depends_on: List[JobRunOutputMetadataTaskDependsOnType]\n    existing_cluster_id: str\n    new_cluster: JobRunOutputMetadataTaskNewClusterType\n    libraries: List[JobRunOutputMetadataTaskLibraryType]",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataJobClusterNewClusterType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataJobClusterNewClusterType(JobRunOutputMetadataTaskNewClusterType): pass\nclass JobRunOutputMetadataJobClusterType(TypedDict):\n    job_cluster_key: str\n    new_cluster: JobRunOutputMetadataJobClusterNewClusterType\nclass JobRunOutputMetadataClusterSpecNewClusterType(JobRunOutputMetadataTaskNewClusterType): pass\nclass JobRunOutputMetadataClusterSpecLibraryType(DatabricksCreateJobTasksLibrariesType): pass\nclass JobRunOutputMetadataClusterSpecType(TypedDict):\n    existing_cluster_id: str\n    new_cluster: JobRunOutputMetadataClusterSpecNewClusterType\n    libraries: List[JobRunOutputMetadataClusterSpecLibraryType]",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataJobClusterType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataJobClusterType(TypedDict):\n    job_cluster_key: str\n    new_cluster: JobRunOutputMetadataJobClusterNewClusterType\nclass JobRunOutputMetadataClusterSpecNewClusterType(JobRunOutputMetadataTaskNewClusterType): pass\nclass JobRunOutputMetadataClusterSpecLibraryType(DatabricksCreateJobTasksLibrariesType): pass\nclass JobRunOutputMetadataClusterSpecType(TypedDict):\n    existing_cluster_id: str\n    new_cluster: JobRunOutputMetadataClusterSpecNewClusterType\n    libraries: List[JobRunOutputMetadataClusterSpecLibraryType]\nclass JobRunOutputMetadataClusterInstanceType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataClusterSpecNewClusterType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataClusterSpecNewClusterType(JobRunOutputMetadataTaskNewClusterType): pass\nclass JobRunOutputMetadataClusterSpecLibraryType(DatabricksCreateJobTasksLibrariesType): pass\nclass JobRunOutputMetadataClusterSpecType(TypedDict):\n    existing_cluster_id: str\n    new_cluster: JobRunOutputMetadataClusterSpecNewClusterType\n    libraries: List[JobRunOutputMetadataClusterSpecLibraryType]\nclass JobRunOutputMetadataClusterInstanceType(TypedDict):\n    cluster_id: str\n    spark_context_id: str\nclass JobRunOutputMetadataGitSourceType(DatabricksCreateJobGitSourceType): pass",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataClusterSpecLibraryType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataClusterSpecLibraryType(DatabricksCreateJobTasksLibrariesType): pass\nclass JobRunOutputMetadataClusterSpecType(TypedDict):\n    existing_cluster_id: str\n    new_cluster: JobRunOutputMetadataClusterSpecNewClusterType\n    libraries: List[JobRunOutputMetadataClusterSpecLibraryType]\nclass JobRunOutputMetadataClusterInstanceType(TypedDict):\n    cluster_id: str\n    spark_context_id: str\nclass JobRunOutputMetadataGitSourceType(DatabricksCreateJobGitSourceType): pass\nclass JobRunOutputMetadataOverridingParametersPipelineParamsType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataClusterSpecType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataClusterSpecType(TypedDict):\n    existing_cluster_id: str\n    new_cluster: JobRunOutputMetadataClusterSpecNewClusterType\n    libraries: List[JobRunOutputMetadataClusterSpecLibraryType]\nclass JobRunOutputMetadataClusterInstanceType(TypedDict):\n    cluster_id: str\n    spark_context_id: str\nclass JobRunOutputMetadataGitSourceType(DatabricksCreateJobGitSourceType): pass\nclass JobRunOutputMetadataOverridingParametersPipelineParamsType(TypedDict):\n    full_refresh: bool",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataClusterInstanceType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataClusterInstanceType(TypedDict):\n    cluster_id: str\n    spark_context_id: str\nclass JobRunOutputMetadataGitSourceType(DatabricksCreateJobGitSourceType): pass\nclass JobRunOutputMetadataOverridingParametersPipelineParamsType(TypedDict):\n    full_refresh: bool\nclass JobRunOutputMetadataOverridingParametersType(TypedDict):\n    jar_params: List[str]\n    notebook_params: Dict[str, str]\n    python_params: List[str]",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataGitSourceType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataGitSourceType(DatabricksCreateJobGitSourceType): pass\nclass JobRunOutputMetadataOverridingParametersPipelineParamsType(TypedDict):\n    full_refresh: bool\nclass JobRunOutputMetadataOverridingParametersType(TypedDict):\n    jar_params: List[str]\n    notebook_params: Dict[str, str]\n    python_params: List[str]\n    spark_submit_params: List[str]\n    python_named_params: Dict[str, str]\n    pipeline_params: JobRunOutputMetadataOverridingParametersPipelineParamsType",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataOverridingParametersPipelineParamsType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataOverridingParametersPipelineParamsType(TypedDict):\n    full_refresh: bool\nclass JobRunOutputMetadataOverridingParametersType(TypedDict):\n    jar_params: List[str]\n    notebook_params: Dict[str, str]\n    python_params: List[str]\n    spark_submit_params: List[str]\n    python_named_params: Dict[str, str]\n    pipeline_params: JobRunOutputMetadataOverridingParametersPipelineParamsType\n    sql_params: Dict[str, str]",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataOverridingParametersType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataOverridingParametersType(TypedDict):\n    jar_params: List[str]\n    notebook_params: Dict[str, str]\n    python_params: List[str]\n    spark_submit_params: List[str]\n    python_named_params: Dict[str, str]\n    pipeline_params: JobRunOutputMetadataOverridingParametersPipelineParamsType\n    sql_params: Dict[str, str]\n    dbt_commands: List[str]\nclass JobRunOutputMetadataTriggerInfoType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataTriggerInfoType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataTriggerInfoType(TypedDict):\n    run_id: int\nclass JobRunOutputMetadataRepairHistoryStateType(TypedDict):\n    life_cycle_state: Literal[\"PENDING\", \"RUNNING\", \"TERMINATING\", \"TERMINATED\", \"SKIPPED\", \"INTERNAL_ERROR\", \"BLOCKED\", \"WAITING_FOR_RETRY\"]\n    result_state: Literal[\"SUCCESS\", \"FAILED\", \"TIMEDOUT\", \"CANCELED\", \"MAXIMUM_CONCURRENT_RUNS_REACHED\", \"EXCLUDED\", \"SUCCESS_WITH_FAILURES\", \"UPSTREAM_FAILED\", \"UPSTREAM_CANCELED\"]\n    user_cancelled_or_timedout: bool\n    state_message: str\nclass JobRunOutputMetadataRepairHistoryType(TypedDict):\n    type: Literal[\"ORIGINAL\", \"REPAIR\"]\n    start_time: int",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataRepairHistoryStateType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataRepairHistoryStateType(TypedDict):\n    life_cycle_state: Literal[\"PENDING\", \"RUNNING\", \"TERMINATING\", \"TERMINATED\", \"SKIPPED\", \"INTERNAL_ERROR\", \"BLOCKED\", \"WAITING_FOR_RETRY\"]\n    result_state: Literal[\"SUCCESS\", \"FAILED\", \"TIMEDOUT\", \"CANCELED\", \"MAXIMUM_CONCURRENT_RUNS_REACHED\", \"EXCLUDED\", \"SUCCESS_WITH_FAILURES\", \"UPSTREAM_FAILED\", \"UPSTREAM_CANCELED\"]\n    user_cancelled_or_timedout: bool\n    state_message: str\nclass JobRunOutputMetadataRepairHistoryType(TypedDict):\n    type: Literal[\"ORIGINAL\", \"REPAIR\"]\n    start_time: int\n    end_time: int\n    state: JobRunOutputMetadataRepairHistoryStateType",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataRepairHistoryType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataRepairHistoryType(TypedDict):\n    type: Literal[\"ORIGINAL\", \"REPAIR\"]\n    start_time: int\n    end_time: int\n    state: JobRunOutputMetadataRepairHistoryStateType\n    id: int\n    task_run_ids: List[int]\nclass JobRunOutputMetadataType(TypedDict):\n    job_id: int\n    run_id: int",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputMetadataType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputMetadataType(TypedDict):\n    job_id: int\n    run_id: int\n    creator_user_name: str\n    original_attempt_run_id: int\n    state: JobRunOutputMetadataStateType\n    schedule: JobRunOutputMetadataScheduleType\n    continuous: JobRunOutputMetadataContinuousType\n    tasks: List[JobRunOutputMetadataTaskType]\n    job_clusters: List[JobRunOutputMetadataJobClusterType]",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "JobRunOutputResponseType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class JobRunOutputResponseType(TypedDict):\n    notebook_output: JobRunOutputNotebookOutputType\n    sql_output: JobRunOutputSqlOutputType\n    dbt_output: JobRunOutputDbtOutputType\n    run_job_output: JobRunOutputRunJobOutputType\n    logs: str\n    logs_truncated: bool\n    error: str\n    error_trace: str\n    metadata: JobRunOutputMetadataType",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobRunPipelineParamsType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobRunPipelineParamsType(TypedDict):\n    full_refresh: bool\nclass DatabricksJobRunRequestType(TypedDict):\n    rerun_tasks: List[str]\n    latest_repair_id: int\n    rerun_all_failed_tasks: bool\n    jar_params: List[str]\n    notebook_params: Dict[str, str]\n    python_params: List[str]\n    spark_submit_params: List[str]",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobRunRequestType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobRunRequestType(TypedDict):\n    rerun_tasks: List[str]\n    latest_repair_id: int\n    rerun_all_failed_tasks: bool\n    jar_params: List[str]\n    notebook_params: Dict[str, str]\n    python_params: List[str]\n    spark_submit_params: List[str]\n    python_named_params: Dict[str, str]\n    pipeline_params: DatabricksJobRunPipelineParamsType",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobRunResponseType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobRunResponseType(TypedDict):\n    repair_id: int\nclass DatabricksJobInfoSettingsEmailNotificationsType(DatabricksCreateJobEmailNotificationType): pass\nclass DatabricksJobInfoSettingsTriggerType(DatabricksCreateJobTriggerType): pass\nclass DatabricksJobInfoSettingsWebhookNotificationsType(DatabricksCreateJobWebhookNorificationType): pass\nclass DatabricksJobInfoSettingsNotificationSettingsType(DatabricksCreateJobNotificationSettingsType): pass\nclass DatabricksJobInfoSettingsHealthType(DatabricksCreateJobHealthType): pass\nclass DatabricksJobInfoSettingsScheduleType(DatabricksCreateJobScheduleType): pass\nclass DatabricksJobInfoSettingsContinuousType(DatabricksCreateJobContinuousType): pass\nclass DatabricksJobInfoSettingsGitSourceType(DatabricksCreateJobGitSourceType): pass",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobInfoSettingsEmailNotificationsType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobInfoSettingsEmailNotificationsType(DatabricksCreateJobEmailNotificationType): pass\nclass DatabricksJobInfoSettingsTriggerType(DatabricksCreateJobTriggerType): pass\nclass DatabricksJobInfoSettingsWebhookNotificationsType(DatabricksCreateJobWebhookNorificationType): pass\nclass DatabricksJobInfoSettingsNotificationSettingsType(DatabricksCreateJobNotificationSettingsType): pass\nclass DatabricksJobInfoSettingsHealthType(DatabricksCreateJobHealthType): pass\nclass DatabricksJobInfoSettingsScheduleType(DatabricksCreateJobScheduleType): pass\nclass DatabricksJobInfoSettingsContinuousType(DatabricksCreateJobContinuousType): pass\nclass DatabricksJobInfoSettingsGitSourceType(DatabricksCreateJobGitSourceType): pass\nclass DatabricksJobInfoSettingsRunAsType(DatabricksCreateJobRunAsType): pass\nclass DatabricksJobInfoSettingsType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobInfoSettingsTriggerType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobInfoSettingsTriggerType(DatabricksCreateJobTriggerType): pass\nclass DatabricksJobInfoSettingsWebhookNotificationsType(DatabricksCreateJobWebhookNorificationType): pass\nclass DatabricksJobInfoSettingsNotificationSettingsType(DatabricksCreateJobNotificationSettingsType): pass\nclass DatabricksJobInfoSettingsHealthType(DatabricksCreateJobHealthType): pass\nclass DatabricksJobInfoSettingsScheduleType(DatabricksCreateJobScheduleType): pass\nclass DatabricksJobInfoSettingsContinuousType(DatabricksCreateJobContinuousType): pass\nclass DatabricksJobInfoSettingsGitSourceType(DatabricksCreateJobGitSourceType): pass\nclass DatabricksJobInfoSettingsRunAsType(DatabricksCreateJobRunAsType): pass\nclass DatabricksJobInfoSettingsType(TypedDict):\n    name: str",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobInfoSettingsWebhookNotificationsType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobInfoSettingsWebhookNotificationsType(DatabricksCreateJobWebhookNorificationType): pass\nclass DatabricksJobInfoSettingsNotificationSettingsType(DatabricksCreateJobNotificationSettingsType): pass\nclass DatabricksJobInfoSettingsHealthType(DatabricksCreateJobHealthType): pass\nclass DatabricksJobInfoSettingsScheduleType(DatabricksCreateJobScheduleType): pass\nclass DatabricksJobInfoSettingsContinuousType(DatabricksCreateJobContinuousType): pass\nclass DatabricksJobInfoSettingsGitSourceType(DatabricksCreateJobGitSourceType): pass\nclass DatabricksJobInfoSettingsRunAsType(DatabricksCreateJobRunAsType): pass\nclass DatabricksJobInfoSettingsType(TypedDict):\n    name: str\n    tags: Dict[str, str]",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobInfoSettingsNotificationSettingsType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobInfoSettingsNotificationSettingsType(DatabricksCreateJobNotificationSettingsType): pass\nclass DatabricksJobInfoSettingsHealthType(DatabricksCreateJobHealthType): pass\nclass DatabricksJobInfoSettingsScheduleType(DatabricksCreateJobScheduleType): pass\nclass DatabricksJobInfoSettingsContinuousType(DatabricksCreateJobContinuousType): pass\nclass DatabricksJobInfoSettingsGitSourceType(DatabricksCreateJobGitSourceType): pass\nclass DatabricksJobInfoSettingsRunAsType(DatabricksCreateJobRunAsType): pass\nclass DatabricksJobInfoSettingsType(TypedDict):\n    name: str\n    tags: Dict[str, str]\n    email_notifications: DatabricksJobInfoSettingsEmailNotificationsType",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobInfoSettingsHealthType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobInfoSettingsHealthType(DatabricksCreateJobHealthType): pass\nclass DatabricksJobInfoSettingsScheduleType(DatabricksCreateJobScheduleType): pass\nclass DatabricksJobInfoSettingsContinuousType(DatabricksCreateJobContinuousType): pass\nclass DatabricksJobInfoSettingsGitSourceType(DatabricksCreateJobGitSourceType): pass\nclass DatabricksJobInfoSettingsRunAsType(DatabricksCreateJobRunAsType): pass\nclass DatabricksJobInfoSettingsType(TypedDict):\n    name: str\n    tags: Dict[str, str]\n    email_notifications: DatabricksJobInfoSettingsEmailNotificationsType\n    trigger: DatabricksJobInfoSettingsTriggerType",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobInfoSettingsScheduleType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobInfoSettingsScheduleType(DatabricksCreateJobScheduleType): pass\nclass DatabricksJobInfoSettingsContinuousType(DatabricksCreateJobContinuousType): pass\nclass DatabricksJobInfoSettingsGitSourceType(DatabricksCreateJobGitSourceType): pass\nclass DatabricksJobInfoSettingsRunAsType(DatabricksCreateJobRunAsType): pass\nclass DatabricksJobInfoSettingsType(TypedDict):\n    name: str\n    tags: Dict[str, str]\n    email_notifications: DatabricksJobInfoSettingsEmailNotificationsType\n    trigger: DatabricksJobInfoSettingsTriggerType\n    webhook_notifications: DatabricksJobInfoSettingsWebhookNotificationsType",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobInfoSettingsContinuousType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobInfoSettingsContinuousType(DatabricksCreateJobContinuousType): pass\nclass DatabricksJobInfoSettingsGitSourceType(DatabricksCreateJobGitSourceType): pass\nclass DatabricksJobInfoSettingsRunAsType(DatabricksCreateJobRunAsType): pass\nclass DatabricksJobInfoSettingsType(TypedDict):\n    name: str\n    tags: Dict[str, str]\n    email_notifications: DatabricksJobInfoSettingsEmailNotificationsType\n    trigger: DatabricksJobInfoSettingsTriggerType\n    webhook_notifications: DatabricksJobInfoSettingsWebhookNotificationsType\n    notification_settings: DatabricksJobInfoSettingsNotificationSettingsType",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobInfoSettingsGitSourceType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobInfoSettingsGitSourceType(DatabricksCreateJobGitSourceType): pass\nclass DatabricksJobInfoSettingsRunAsType(DatabricksCreateJobRunAsType): pass\nclass DatabricksJobInfoSettingsType(TypedDict):\n    name: str\n    tags: Dict[str, str]\n    email_notifications: DatabricksJobInfoSettingsEmailNotificationsType\n    trigger: DatabricksJobInfoSettingsTriggerType\n    webhook_notifications: DatabricksJobInfoSettingsWebhookNotificationsType\n    notification_settings: DatabricksJobInfoSettingsNotificationSettingsType\n    timeout_seconds: int",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobInfoSettingsRunAsType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobInfoSettingsRunAsType(DatabricksCreateJobRunAsType): pass\nclass DatabricksJobInfoSettingsType(TypedDict):\n    name: str\n    tags: Dict[str, str]\n    email_notifications: DatabricksJobInfoSettingsEmailNotificationsType\n    trigger: DatabricksJobInfoSettingsTriggerType\n    webhook_notifications: DatabricksJobInfoSettingsWebhookNotificationsType\n    notification_settings: DatabricksJobInfoSettingsNotificationSettingsType\n    timeout_seconds: int\n    health: DatabricksJobInfoSettingsHealthType",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobInfoSettingsType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobInfoSettingsType(TypedDict):\n    name: str\n    tags: Dict[str, str]\n    email_notifications: DatabricksJobInfoSettingsEmailNotificationsType\n    trigger: DatabricksJobInfoSettingsTriggerType\n    webhook_notifications: DatabricksJobInfoSettingsWebhookNotificationsType\n    notification_settings: DatabricksJobInfoSettingsNotificationSettingsType\n    timeout_seconds: int\n    health: DatabricksJobInfoSettingsHealthType\n    schedule: DatabricksJobInfoSettingsScheduleType",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobInfoTriggerHistoryLastTriggeredType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobInfoTriggerHistoryLastTriggeredType(TypedDict):\n    timestamp: int\n    description: str\n    run_id: int\nclass DatabricksJobInfoTriggerHistoryLastNotTriggeredType(TypedDict):\n    timestamp: int\n    description: str\n    run_id: int\nclass DatabricksJobInfoTriggerHistoryLastFailedType(TypedDict):\n    timestamp: int",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobInfoTriggerHistoryLastNotTriggeredType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobInfoTriggerHistoryLastNotTriggeredType(TypedDict):\n    timestamp: int\n    description: str\n    run_id: int\nclass DatabricksJobInfoTriggerHistoryLastFailedType(TypedDict):\n    timestamp: int\n    description: str\n    run_id: int\nclass DatabricksJobInfoTriggerHistoryType(TypedDict):\n    last_triggered: DatabricksJobInfoTriggerHistoryLastTriggeredType",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobInfoTriggerHistoryLastFailedType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobInfoTriggerHistoryLastFailedType(TypedDict):\n    timestamp: int\n    description: str\n    run_id: int\nclass DatabricksJobInfoTriggerHistoryType(TypedDict):\n    last_triggered: DatabricksJobInfoTriggerHistoryLastTriggeredType\n    last_not_triggered: DatabricksJobInfoTriggerHistoryLastNotTriggeredType\n    last_failed: DatabricksJobInfoTriggerHistoryLastFailedType\nclass DatabricksJobInfoResponseType(TypedDict):\n    job_id: int",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobInfoTriggerHistoryType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobInfoTriggerHistoryType(TypedDict):\n    last_triggered: DatabricksJobInfoTriggerHistoryLastTriggeredType\n    last_not_triggered: DatabricksJobInfoTriggerHistoryLastNotTriggeredType\n    last_failed: DatabricksJobInfoTriggerHistoryLastFailedType\nclass DatabricksJobInfoResponseType(TypedDict):\n    job_id: int\n    creator_user_name: str\n    settings: DatabricksJobInfoSettingsType\n    created_time: int\n    run_as_user_name: str",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobInfoResponseType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobInfoResponseType(TypedDict):\n    job_id: int\n    creator_user_name: str\n    settings: DatabricksJobInfoSettingsType\n    created_time: int\n    run_as_user_name: str\n    trigger_history: DatabricksJobInfoTriggerHistoryType",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksRunJobPipelineParamsType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobTypes",
+        "description": "databricks.types.DatabricksJobTypes",
+        "peekOfCode": "class DatabricksRunJobPipelineParamsType(TypedDict):\n    full_refresh: bool\nclass DatabricksRunJobRequestType(TypedDict):\n    idempotency_token: str\n    jar_params: List[str]\n    notebook_params: Dict[str, str]\n    python_params: List[str]\n    spark_submit_params: List[str]\n    python_named_params: Dict[str, str]\n    pipeline_params: DatabricksRunJobPipelineParamsType",
+        "detail": "databricks.types.DatabricksJobTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksRunJobRequestType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobTypes",
+        "description": "databricks.types.DatabricksJobTypes",
+        "peekOfCode": "class DatabricksRunJobRequestType(TypedDict):\n    idempotency_token: str\n    jar_params: List[str]\n    notebook_params: Dict[str, str]\n    python_params: List[str]\n    spark_submit_params: List[str]\n    python_named_params: Dict[str, str]\n    pipeline_params: DatabricksRunJobPipelineParamsType\n    sql_params: Dict[str, str]\n    dbt_commands: List[str]",
+        "detail": "databricks.types.DatabricksJobTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksRunJobResponseType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobTypes",
+        "description": "databricks.types.DatabricksJobTypes",
+        "peekOfCode": "class DatabricksRunJobResponseType(TypedDict):\n    run_id: int",
+        "detail": "databricks.types.DatabricksJobTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksRequestError",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksRequestTypes",
+        "description": "databricks.types.DatabricksRequestTypes",
+        "peekOfCode": "class DatabricksRequestError(TypedDict):\n    error_code: str\n    message: str",
+        "detail": "databricks.types.DatabricksRequestTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksClusterAzureAttributesLogAnalyticsInfoType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksTypes",
+        "description": "databricks.types.DatabricksTypes",
+        "peekOfCode": "class DatabricksClusterAzureAttributesLogAnalyticsInfoType(TypedDict):\n    log_analytics_workspace_id: str\n    log_analytics_primary_key: str\nclass DatabricksClusterAzureAttributesType(TypedDict):\n    log_analytics_info: DatabricksClusterAzureAttributesLogAnalyticsInfoType\n    first_on_demand: int\n    availability: Literal[ \"SPOT_AZURE\", \"ON_DEMAND_AZURE\", \"SPOT_WITH_FALLBACK_AZURE\" ]\n    spot_bid_max_price: float\nclass DatabricksClusterSpecsClusterLogConfDBFSType(TypedDict):\n    destination: str",
+        "detail": "databricks.types.DatabricksTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksClusterAzureAttributesType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksTypes",
+        "description": "databricks.types.DatabricksTypes",
+        "peekOfCode": "class DatabricksClusterAzureAttributesType(TypedDict):\n    log_analytics_info: DatabricksClusterAzureAttributesLogAnalyticsInfoType\n    first_on_demand: int\n    availability: Literal[ \"SPOT_AZURE\", \"ON_DEMAND_AZURE\", \"SPOT_WITH_FALLBACK_AZURE\" ]\n    spot_bid_max_price: float\nclass DatabricksClusterSpecsClusterLogConfDBFSType(TypedDict):\n    destination: str\nclass DatabricksClusterSpecsClusterLogConfType(TypedDict):\n    dbfs: DatabricksClusterSpecsClusterLogConfDBFSType\nclass DatabricksClusterSpecsInitScriptsWorkspaceType(TypedDict):",
+        "detail": "databricks.types.DatabricksTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksClusterSpecsClusterLogConfDBFSType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksTypes",
+        "description": "databricks.types.DatabricksTypes",
+        "peekOfCode": "class DatabricksClusterSpecsClusterLogConfDBFSType(TypedDict):\n    destination: str\nclass DatabricksClusterSpecsClusterLogConfType(TypedDict):\n    dbfs: DatabricksClusterSpecsClusterLogConfDBFSType\nclass DatabricksClusterSpecsInitScriptsWorkspaceType(TypedDict):\n    destination: str\nclass DatabricksClusterSpecsInitScriptsDBFSType(TypedDict):\n    destination: str\nclass DatabricksClusterSpecsInitScriptsType(TypedDict):\n    workspace: DatabricksClusterSpecsInitScriptsWorkspaceType",
+        "detail": "databricks.types.DatabricksTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksClusterSpecsClusterLogConfType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksTypes",
+        "description": "databricks.types.DatabricksTypes",
+        "peekOfCode": "class DatabricksClusterSpecsClusterLogConfType(TypedDict):\n    dbfs: DatabricksClusterSpecsClusterLogConfDBFSType\nclass DatabricksClusterSpecsInitScriptsWorkspaceType(TypedDict):\n    destination: str\nclass DatabricksClusterSpecsInitScriptsDBFSType(TypedDict):\n    destination: str\nclass DatabricksClusterSpecsInitScriptsType(TypedDict):\n    workspace: DatabricksClusterSpecsInitScriptsWorkspaceType\n    dbfs: DatabricksClusterSpecsInitScriptsDBFSType\nclass DatabricksClusterSpecsWorkloadClientsType(TypedDict):",
+        "detail": "databricks.types.DatabricksTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksClusterSpecsInitScriptsWorkspaceType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksTypes",
+        "description": "databricks.types.DatabricksTypes",
+        "peekOfCode": "class DatabricksClusterSpecsInitScriptsWorkspaceType(TypedDict):\n    destination: str\nclass DatabricksClusterSpecsInitScriptsDBFSType(TypedDict):\n    destination: str\nclass DatabricksClusterSpecsInitScriptsType(TypedDict):\n    workspace: DatabricksClusterSpecsInitScriptsWorkspaceType\n    dbfs: DatabricksClusterSpecsInitScriptsDBFSType\nclass DatabricksClusterSpecsWorkloadClientsType(TypedDict):\n    notebooks: bool\n    jobs: bool",
+        "detail": "databricks.types.DatabricksTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksClusterSpecsInitScriptsDBFSType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksTypes",
+        "description": "databricks.types.DatabricksTypes",
+        "peekOfCode": "class DatabricksClusterSpecsInitScriptsDBFSType(TypedDict):\n    destination: str\nclass DatabricksClusterSpecsInitScriptsType(TypedDict):\n    workspace: DatabricksClusterSpecsInitScriptsWorkspaceType\n    dbfs: DatabricksClusterSpecsInitScriptsDBFSType\nclass DatabricksClusterSpecsWorkloadClientsType(TypedDict):\n    notebooks: bool\n    jobs: bool\nclass DatabricksClusterSpecsWorkloadType(TypedDict):\n    clients: DatabricksClusterSpecsWorkloadClientsType",
+        "detail": "databricks.types.DatabricksTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksClusterSpecsInitScriptsType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksTypes",
+        "description": "databricks.types.DatabricksTypes",
+        "peekOfCode": "class DatabricksClusterSpecsInitScriptsType(TypedDict):\n    workspace: DatabricksClusterSpecsInitScriptsWorkspaceType\n    dbfs: DatabricksClusterSpecsInitScriptsDBFSType\nclass DatabricksClusterSpecsWorkloadClientsType(TypedDict):\n    notebooks: bool\n    jobs: bool\nclass DatabricksClusterSpecsWorkloadType(TypedDict):\n    clients: DatabricksClusterSpecsWorkloadClientsType\nclass DatabricksClusterSpecsDockerImageBasicAuthType(TypedDict):\n    username: str",
+        "detail": "databricks.types.DatabricksTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksClusterSpecsWorkloadClientsType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksTypes",
+        "description": "databricks.types.DatabricksTypes",
+        "peekOfCode": "class DatabricksClusterSpecsWorkloadClientsType(TypedDict):\n    notebooks: bool\n    jobs: bool\nclass DatabricksClusterSpecsWorkloadType(TypedDict):\n    clients: DatabricksClusterSpecsWorkloadClientsType\nclass DatabricksClusterSpecsDockerImageBasicAuthType(TypedDict):\n    username: str\n    password: str\nclass DatabricksClusterSpecsDockerImageType(TypedDict):\n    url: str",
+        "detail": "databricks.types.DatabricksTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksClusterSpecsWorkloadType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksTypes",
+        "description": "databricks.types.DatabricksTypes",
+        "peekOfCode": "class DatabricksClusterSpecsWorkloadType(TypedDict):\n    clients: DatabricksClusterSpecsWorkloadClientsType\nclass DatabricksClusterSpecsDockerImageBasicAuthType(TypedDict):\n    username: str\n    password: str\nclass DatabricksClusterSpecsDockerImageType(TypedDict):\n    url: str\n    basic_auth: DatabricksClusterSpecsDockerImageBasicAuthType\nclass DatabricksClusterSpecsAutoScaleType(TypedDict):\n    min_workers: int",
+        "detail": "databricks.types.DatabricksTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksClusterSpecsDockerImageBasicAuthType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksTypes",
+        "description": "databricks.types.DatabricksTypes",
+        "peekOfCode": "class DatabricksClusterSpecsDockerImageBasicAuthType(TypedDict):\n    username: str\n    password: str\nclass DatabricksClusterSpecsDockerImageType(TypedDict):\n    url: str\n    basic_auth: DatabricksClusterSpecsDockerImageBasicAuthType\nclass DatabricksClusterSpecsAutoScaleType(TypedDict):\n    min_workers: int\n    max_workers: int\nclass DatabricksClusterSpecsDriverType(TypedDict):",
+        "detail": "databricks.types.DatabricksTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksClusterSpecsDockerImageType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksTypes",
+        "description": "databricks.types.DatabricksTypes",
+        "peekOfCode": "class DatabricksClusterSpecsDockerImageType(TypedDict):\n    url: str\n    basic_auth: DatabricksClusterSpecsDockerImageBasicAuthType\nclass DatabricksClusterSpecsAutoScaleType(TypedDict):\n    min_workers: int\n    max_workers: int\nclass DatabricksClusterSpecsDriverType(TypedDict):\n    private_ip: str\n    public_dns: str\n    node_id: str",
+        "detail": "databricks.types.DatabricksTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksClusterSpecsAutoScaleType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksTypes",
+        "description": "databricks.types.DatabricksTypes",
+        "peekOfCode": "class DatabricksClusterSpecsAutoScaleType(TypedDict):\n    min_workers: int\n    max_workers: int\nclass DatabricksClusterSpecsDriverType(TypedDict):\n    private_ip: str\n    public_dns: str\n    node_id: str\n    instance_id: str\n    start_timestamp: int\n    host_private_ip: str",
+        "detail": "databricks.types.DatabricksTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksClusterSpecsDriverType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksTypes",
+        "description": "databricks.types.DatabricksTypes",
+        "peekOfCode": "class DatabricksClusterSpecsDriverType(TypedDict):\n    private_ip: str\n    public_dns: str\n    node_id: str\n    instance_id: str\n    start_timestamp: int\n    host_private_ip: str\nclass DatabricksClusterSpecsExecutorsType(TypedDict):\n    private_ip: str\n    public_dns: str",
+        "detail": "databricks.types.DatabricksTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksClusterSpecsExecutorsType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksTypes",
+        "description": "databricks.types.DatabricksTypes",
+        "peekOfCode": "class DatabricksClusterSpecsExecutorsType(TypedDict):\n    private_ip: str\n    public_dns: str\n    node_id: str\n    instance_id: str\n    start_timestamp: int\n    host_private_ip: str\nclass DatabricksClusterSpecsClusterLogStatusType(TypedDict):\n    last_attempted: int\n    last_exception: str",
+        "detail": "databricks.types.DatabricksTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksClusterSpecsClusterLogStatusType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksTypes",
+        "description": "databricks.types.DatabricksTypes",
+        "peekOfCode": "class DatabricksClusterSpecsClusterLogStatusType(TypedDict):\n    last_attempted: int\n    last_exception: str\nclass DatabricksClusterSpecsTerminationReasonType(TypedDict):\n    code: Literal[\n        \"UNKNOWN\",\n        \"USER_REQUEST\",\n        \"JOB_FINISHED\",\n        \"INACTIVITY\",\n        \"CLOUD_PROVIDER_SHUTDOWN\",",
+        "detail": "databricks.types.DatabricksTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksClusterSpecsTerminationReasonType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksTypes",
+        "description": "databricks.types.DatabricksTypes",
+        "peekOfCode": "class DatabricksClusterSpecsTerminationReasonType(TypedDict):\n    code: Literal[\n        \"UNKNOWN\",\n        \"USER_REQUEST\",\n        \"JOB_FINISHED\",\n        \"INACTIVITY\",\n        \"CLOUD_PROVIDER_SHUTDOWN\",\n        \"COMMUNICATION_LOST\",\n        \"CLOUD_PROVIDER_LAUNCH_FAILURE\",\n        \"INIT_SCRIPT_FAILURE\",",
+        "detail": "databricks.types.DatabricksTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksClusterInfoType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksTypes",
+        "description": "databricks.types.DatabricksTypes",
+        "peekOfCode": "class DatabricksClusterInfoType(TypedDict):\n    cluster_name: str\n    spark_version: str\n    spark_conf: Dict[str, str]\n    azure_attributes: DatabricksClusterAzureAttributesType\n    node_type_id: str\n    driver_node_type_id: str\n    ssh_public_keys: List[str]\n    custom_tags: Dict[str, str]\n    cluster_log_conf: DatabricksClusterSpecsClusterLogConfType",
+        "detail": "databricks.types.DatabricksTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksListClustersResponseType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksTypes",
+        "description": "databricks.types.DatabricksTypes",
+        "peekOfCode": "class DatabricksListClustersResponseType(TypedDict):\n    clusters: List[DatabricksClusterInfoType]",
+        "detail": "databricks.types.DatabricksTypes",
+        "documentation": {}
+    },
+    {
+        "label": "Job",
+        "kind": 6,
+        "importPath": "databricks.workflows.job",
+        "description": "databricks.workflows.job",
+        "peekOfCode": "class Job:\n    _databricks: Databricks\n    _id: str\n    def __init__(\n        self,\n        id: str,\n        databricks: Databricks\n    ) -> None:\n        self._id = id\n        self._databricks = databricks",
+        "detail": "databricks.workflows.job",
+        "documentation": {}
+    },
+    {
+        "label": "JobManager",
+        "kind": 6,
+        "importPath": "databricks.workflows.jobManager",
+        "description": "databricks.workflows.jobManager",
+        "peekOfCode": "class JobManager:\n    _databricks: Databricks\n    def __init__(\n        self,\n        databricks: Databricks\n    ) -> None:\n        self._databricks = databricks\n    @property\n    def databricks(self) -> Databricks:\n        return self._databricks",
+        "detail": "databricks.workflows.jobManager",
+        "documentation": {}
+    },
+    {
+        "label": "JobRun",
+        "kind": 6,
+        "importPath": "databricks.workflows.jobRun",
+        "description": "databricks.workflows.jobRun",
+        "peekOfCode": "class JobRun:\n    _databricks: Databricks\n    _id: str\n    def __init__(\n        self,\n        databricks: Databricks,\n        id\n    ) -> None:\n        self._id = id\n        self._databricks = databricks",
+        "detail": "databricks.workflows.jobRun",
+        "documentation": {}
+    },
+    {
+        "label": "Workspace",
+        "kind": 6,
+        "importPath": "databricks.workspace.workspace",
+        "description": "databricks.workspace.workspace",
+        "peekOfCode": "class Workspace:\n    _databricks: Databricks\n    _path: str\n    def __init__(\n        self,\n        databricks: Databricks,\n        path: str\n    ) -> None:\n        self._databricks = databricks\n        self._path = path",
+        "detail": "databricks.workspace.workspace",
+        "documentation": {}
+    },
+    {
+        "label": "Databricks",
+        "kind": 6,
+        "importPath": "databricks.databricks",
+        "description": "databricks.databricks",
+        "peekOfCode": "class Databricks:\n    _url: str\n    _token: str\n    def __init__(\n        self,\n        url: str,\n        token: str\n    ) -> None:\n        self._url = url\n        self._token = token",
+        "detail": "databricks.databricks",
+        "documentation": {}
+    }
+]
