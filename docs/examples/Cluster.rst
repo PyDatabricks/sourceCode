@@ -1,7 +1,12 @@
 Clusters
 ========
 
-A classe Cluster deve receber uma instância da classe Databricks, junto com o id do cluster.
+A classe 'Cluster' recebe 2 atributos:
+    + databricks: Databricks
+        Objeto da classe Databricks
+
+    + id: str
+        Id do cluster
 
 .. code-block:: python
 
@@ -43,6 +48,9 @@ Restart
 =======
 
 O método 'restart' reinicia o cluster.
+    Params:
+        - restartUser: optional str
+            Usuário que irá mandar o sinal de reinicialização
 
 .. code-block:: python
 

@@ -1,7 +1,12 @@
 Databricks
 ==========
 
-Para instanciar a classe Databricks, é preciso passar o token e o link.
+A classe Databricks recebe 2 atributos:
+    + token: str
+        Chave de acesso obtido dentro da plataforma databricks.
+        
+    + link: str
+        Link para a plataforma.
 
 .. code-block:: python
 
@@ -13,7 +18,7 @@ Para instanciar a classe Databricks, é preciso passar o token e o link.
 Get Clusters
 ============
 
-O método retorna uma variável do tipo databricks.types.DatabricksListClustersResponseType todos os clusters
+O método 'getClusters' retorna uma variável do tipo databricks.types.DatabricksListClustersResponseType todos os clusters
 
 .. code-block:: python
 
