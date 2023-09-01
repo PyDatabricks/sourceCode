@@ -80,7 +80,7 @@ class Command:
         data: DatabricksGetCommandStatusResponseType = req.json()
         return data
     
-    def calcel(self) -> None:
+    def cancel(self) -> None:
         self.__assert()
         assert self._id, "Invalid Command Id. Try to run Command.run() method before."
         req = requests.post(

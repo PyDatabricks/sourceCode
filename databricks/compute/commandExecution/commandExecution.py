@@ -56,7 +56,7 @@ class CommandExecution:
         self._cmd = Command(self._command, self._ctx)
 
 
-    def run(self) -> None:
+    def run(self) -> DatabricksGetCommandStatusResponseResultsType:
         self._cluster.forceStart()
         self.__createContext()
         self.__createCommand()
@@ -74,3 +74,5 @@ class CommandExecution:
 
     def cancel(self) -> None:
         assert self._cmd, "Invalid Command Id. Try to run CommandExecution.run() before."
+        self._cmd.cancel()
+        self._ctx.delete()

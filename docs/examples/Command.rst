@@ -14,7 +14,7 @@ A classe 'Command' recebe 2 atributos:
 
     >>> from databricks.compute.commandExecution import Command
     
-    >>> command = Command("", context)
+    >>> command = Command("<command>", context)
 
 
 Run
@@ -39,8 +39,8 @@ O método 'getStatus' retorna o estado do comando em questão.
 
     >>> print(command.getStatus())
     {
-        id: str
-        status: str
+        id: str,
+        status: str,
         results: { ... }
     }
 
