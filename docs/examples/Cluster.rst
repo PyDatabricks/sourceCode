@@ -12,17 +12,59 @@ A classe Cluster deve receber uma instância da classe Databricks, junto com o i
     >>> cluster = Cluster(db, "<cluster-id>")
 
 
-forceStart
-==========
+Force Start
+===========
 
-O método 'forceStart' força o  o cluster, enquanto o cluster não estiver no estado de running, o código continuará no laço.
+O método 'forceStart' força o início do cluster, enquanto o cluster não estiver no estado de running, o código continuará no laço.
 
 .. code-block:: python
 
     >>> cluster.forceStart()
 
 
-getInfo
+Get Info
+========
+
+O método 'getInfo' retorna informações sobre o cluster.
+
+.. code-block:: python
+
+    >>> print(cluster.getInfo())
+    {
+        cluster_name: ''
+        spark_version: ''
+        spark_conf: { ... }
+        azure_attributes: { ... }
+        ...
+    }
+
+
+Restart
 =======
 
-O método 'getInfo' retorna
+O método 'restart' reinicia o cluster.
+
+.. code-block:: python
+
+    >>> cluster.restart()
+
+
+Start
+=====
+
+O método 'start' inicia o cluster. Este método só funciona caso o cluster esteja no estado 'TERMINATED', caso contrário, utilize o método 'forceStart'.
+
+.. code-block:: python
+
+    >>> cluster.start()
+
+
+
+Terminate
+=========
+
+O método 'terminate' envia uma chamada de desligamento para o cluster.
+
+.. code-block:: python
+
+    >>> cluster.terminate()
