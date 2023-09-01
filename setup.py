@@ -1,4 +1,9 @@
-from databricks.databricks import Databricks
+from setuptools import setup, find_packages
 
-if __name__ == "__main__":
-    databricks = Databricks("", "")
+setup(
+    name="databricks", 
+    version="0.10",
+    description="biblioteca databricks",
+    author="DDRE",
+    packages=find_packages()
+)

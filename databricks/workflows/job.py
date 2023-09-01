@@ -1,5 +1,5 @@
-from databricks.types.DatabricksJobRunTypes import DatabricksJobInfoResponseType
-from databricks.types.DatabricksJobTypes import (
+from databricks.fileManagement.types.DatabricksJobRunTypes import DatabricksJobInfoResponseType
+from databricks.fileManagement.types.DatabricksJobTypes import (
     DatabricksRunJobRequestType,
     DatabricksRunJobResponseType
 )

@@ -1,4 +1,4 @@
-from databricks.types.DatabricksJobRunTypes import (
+from databricks.fileManagement.types.DatabricksJobRunTypes import (
     DatabricksJobRunRequestType,
     DatabricksJobRunResponseType,
     JobRunOutputResponseType

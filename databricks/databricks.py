@@ -1,4 +1,4 @@
-from databricks.types.DatabricksTypes import DatabricksListClustersResponseType
+from databricks.fileManagement.types.DatabricksTypes import DatabricksListClustersResponseType
 import requests
 
 class Databricks:

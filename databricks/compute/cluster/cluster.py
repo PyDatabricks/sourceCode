@@ -1,4 +1,4 @@
-from databricks.types.DatabricksTypes import DatabricksClusterInfoType
+from databricks.fileManagement.types import DatabricksClusterInfoType
 from databricks.databricks import Databricks
 from time import sleep
 import requests

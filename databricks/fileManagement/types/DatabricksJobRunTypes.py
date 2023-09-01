@@ -1,4 +1,4 @@
-from databricks.types.DatabricksJobManagerTypes import (
+from databricks.fileManagement.types.DatabricksJobManagerTypes import (
     DatabricksCreateJobContinuousType,
     DatabricksCreateJobEmailNotificationType,
     DatabricksCreateJobGitSourceType,

@@ -1,4 +1,4 @@
-from databricks.types.DatabricksFileManagementRepositoryTypes import DatabricksRepositoryPropertiesType
+from databricks.fileManagement.types.DatabricksFileManagementRepositoryTypes import DatabricksRepositoryPropertiesType
 from databricks.fileManagement.path import RepositoryPath
 from databricks.databricks import Databricks
 import requests

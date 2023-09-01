@@ -1,4 +1,4 @@
-from databricks.types.DatabricksFileManagementRepositoryTypes import DatabricksListDirResponseType
+from databricks.fileManagement.types.DatabricksFileManagementRepositoryTypes import DatabricksListDirResponseType
 from databricks.fileManagement.dbfs.repository import Repository
 from databricks.fileManagement.path import RepositoryPath
 from databricks.fileManagement.dbfs.file import File

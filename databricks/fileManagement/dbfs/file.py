@@ -1,7 +1,7 @@
-from databricks.types.DatabricksFileManagementRepositoryTypes import DatabricksFileGetContentResponseType
+from databricks.fileManagement.types.DatabricksFileManagementRepositoryTypes import DatabricksFileGetContentResponseType
 from databricks.fileManagement.dbfs.repository import Repository
 from databricks.fileManagement.local.file import File as LocalFile
-from databricks.databricks import Databricks
+from databricks import databricks
 from multipledispatch import dispatch
 from threading import Thread
 from enum import Enum
@@ -168,7 +168,7 @@ class File(Repository):
 
     def __init__(
         self,
-        databricks: Databricks,
+        databricks: databricks,
         path: str,
         encoding: str='utf-8'
     ) -> None:
