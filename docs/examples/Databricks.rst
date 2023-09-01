@@ -4,7 +4,7 @@ Databricks
 A classe Databricks recebe 2 atributos:
     + token: str
         Chave de acesso obtido dentro da plataforma databricks.
-        
+
     + link: str
         Link para a plataforma.
 
@@ -23,7 +23,7 @@ O método 'getClusters' retorna uma variável do tipo databricks.types.Databrick
 .. code-block:: python
 
     >>> from databricks.types import DatabricksListClustersResponseType
-    >>> 
+    
     >>> clusters: DatabricksListClustersResponseType = db.listClusters()
     >>> print(clusters)
     {

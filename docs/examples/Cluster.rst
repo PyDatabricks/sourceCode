@@ -49,7 +49,7 @@ Restart
 
 O método 'restart' reinicia o cluster.
     Params:
-        - restartUser: optional str
+        - restartUser(optional): str
             Usuário que irá mandar o sinal de reinicialização
 
 .. code-block:: python
