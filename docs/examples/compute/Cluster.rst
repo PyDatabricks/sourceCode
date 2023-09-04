@@ -10,8 +10,8 @@ A classe 'Cluster' recebe 2 atributos:
 
 .. code-block:: python
 
-    >>> from databricks import Databricks
-    >>> from databricks.compute.cluster import Cluster
+    >>> from databricks.databricks import Databricks
+    >>> from databricks.compute.cluster.cluster import Cluster
     >>> 
     >>> db = Databricks("<token>", "<url>")
     >>> cluster = Cluster(db, "<cluster-id>")

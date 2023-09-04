@@ -13,7 +13,7 @@ A classe 'CommandExecution' recebe 3 atributos:
 
 .. code-block:: python
 
-    >>> from databricks.compute.commandExecution import CommandExecution
+    >>> from databricks.compute.commandExecution.commandExecution import CommandExecution
 
     >>> cmd = CommandExecution("<command>", cluster) # PYTHON
 

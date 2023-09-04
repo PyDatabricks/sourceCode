@@ -1,26 +1,10 @@
 [
     {
         "label": "DatabricksClusterInfoType",
-        "importPath": "databricks.types.DatabricksTypes",
-        "description": "databricks.types.DatabricksTypes",
+        "importPath": "databricks.types",
+        "description": "databricks.types",
         "isExtraImport": true,
-        "detail": "databricks.types.DatabricksTypes",
-        "documentation": {}
-    },
-    {
-        "label": "DatabricksListClustersResponseType",
-        "importPath": "databricks.types.DatabricksTypes",
-        "description": "databricks.types.DatabricksTypes",
-        "isExtraImport": true,
-        "detail": "databricks.types.DatabricksTypes",
-        "documentation": {}
-    },
-    {
-        "label": "Databricks",
-        "importPath": "databricks.databricks",
-        "description": "databricks.databricks",
-        "isExtraImport": true,
-        "detail": "databricks.databricks",
+        "detail": "databricks.types",
         "documentation": {}
     },
     {
@@ -345,6 +329,14 @@
         "documentation": {}
     },
     {
+        "label": "databricks",
+        "importPath": "databricks",
+        "description": "databricks",
+        "isExtraImport": true,
+        "detail": "databricks",
+        "documentation": {}
+    },
+    {
         "label": "dispatch",
         "importPath": "multipledispatch",
         "description": "multipledispatch",
@@ -626,15 +618,6 @@
         "documentation": {}
     },
     {
-        "label": "os",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "os",
-        "description": "os",
-        "detail": "os",
-        "documentation": {}
-    },
-    {
         "label": "listdir",
         "importPath": "os",
         "description": "os",
@@ -907,6 +890,14 @@
         "documentation": {}
     },
     {
+        "label": "DatabricksListClustersResponseType",
+        "importPath": "databricks.types.DatabricksTypes",
+        "description": "databricks.types.DatabricksTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksTypes",
+        "documentation": {}
+    },
+    {
         "label": "setup",
         "importPath": "setuptools",
         "description": "setuptools",
@@ -1008,7 +999,7 @@
         "kind": 6,
         "importPath": "databricks.fileManagement.dbfs.file",
         "description": "databricks.fileManagement.dbfs.file",
-        "peekOfCode": "class File(Repository):\n    _encoding: str\n    def __init__(\n        self,\n        databricks: Databricks,\n        path: str,\n        encoding: str='utf-8'\n    ) -> None:\n        super().__init__(databricks, path)\n        self._encoding = encoding",
+        "peekOfCode": "class File(Repository):\n    _encoding: str\n    def __init__(\n        self,\n        databricks: databricks,\n        path: str,\n        encoding: str='utf-8'\n    ) -> None:\n        super().__init__(databricks, path)\n        self._encoding = encoding",
         "detail": "databricks.fileManagement.dbfs.file",
         "documentation": {}
     },
@@ -2576,24 +2567,6 @@
         "description": "test.main",
         "peekOfCode": "def main():\n    db = Databricks\nif __name__ == \"__main__\":\n    main()",
         "detail": "test.main",
-        "documentation": {}
-    },
-    {
-        "label": "_PATH_ROOT",
-        "kind": 5,
-        "importPath": "setup",
-        "description": "setup",
-        "peekOfCode": "_PATH_ROOT = os.path.dirname(__file__)\n_PATH_REQUIRES = os.path.join(_PATH_ROOT, \"requirements\")\ndef _load_requirements(path_dir: str = _PATH_ROOT, file_name: str = \"requirements.txt\") -> \"list[str]\":\n    with open(os.path.join(path_dir, file_name)) as fp:\n        reqs = [ln.strip() for ln in fp.readlines()]\n    return [r for r in reqs if r and not r.startswith(\"#\")]\nsetup(\n    name='databricks',\n    version='0.1',\n    url='https://github.com/the-gigi/pathology',",
-        "detail": "setup",
-        "documentation": {}
-    },
-    {
-        "label": "_PATH_REQUIRES",
-        "kind": 5,
-        "importPath": "setup",
-        "description": "setup",
-        "peekOfCode": "_PATH_REQUIRES = os.path.join(_PATH_ROOT, \"requirements\")\ndef _load_requirements(path_dir: str = _PATH_ROOT, file_name: str = \"requirements.txt\") -> \"list[str]\":\n    with open(os.path.join(path_dir, file_name)) as fp:\n        reqs = [ln.strip() for ln in fp.readlines()]\n    return [r for r in reqs if r and not r.startswith(\"#\")]\nsetup(\n    name='databricks',\n    version='0.1',\n    url='https://github.com/the-gigi/pathology',\n    license='None',",
-        "detail": "setup",
         "documentation": {}
     }
 ]

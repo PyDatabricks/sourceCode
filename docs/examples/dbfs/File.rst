@@ -14,7 +14,7 @@ A classe 'File' extende a classe 'Repository' e recebe 3 atributos:
 
 .. code-block:: python
 
-    >>> from databricks.fileManagement.dbfs import File
+    >>> from databricks.fileManagement.dbfs.file import File
 
     >>> file = File(databricks, "<path>", "latin-1")
 

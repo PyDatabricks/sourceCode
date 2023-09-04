@@ -9,7 +9,7 @@ A classe 'JobRun' possui 2 atributos.
 
 .. code-block:: python
 
-    >>> from databricks.workflows import JobRun
+    >>> from databricks.workflows.jobRun import JobRun
 
     >>> jobRun = JobRun(databricks, "<job-run-id>")
 

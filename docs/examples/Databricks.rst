@@ -10,7 +10,7 @@ A classe Databricks recebe 2 atributos:
 
 .. code-block:: python
 
-    >>> from databricks import Databricks
+    >>> from databricks.databricks import Databricks
     >>> token = "<token>"
     >>> url = "<url>"
     >>> db = Databricks(token, url)
@@ -18,13 +18,11 @@ A classe Databricks recebe 2 atributos:
 Get Clusters
 ============
 
-O método 'getClusters' retorna uma variável do tipo databricks.types.DatabricksListClustersResponseType todos os clusters
+O método 'getClusters' retorna uma variável do tipo databricks.types.DatabricksTypes.DatabricksListClustersResponseType todos os clusters
 
 .. code-block:: python
-
-    >>> from databricks.types import DatabricksListClustersResponseType
     
-    >>> clusters: DatabricksListClustersResponseType = db.listClusters()
+    >>> clusters = db.listClusters()
     >>> print(clusters)
     {
         'clusters': []

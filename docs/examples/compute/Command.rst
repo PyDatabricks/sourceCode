@@ -12,7 +12,7 @@ A classe 'Command' recebe 2 atributos:
 
 .. code-block:: python
 
-    >>> from databricks.compute.commandExecution import Command
+    >>> from databricks.compute.commandExecution.command import Command
     
     >>> command = Command("<command>", context)
 

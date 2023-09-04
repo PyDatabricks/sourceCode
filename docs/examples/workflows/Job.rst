@@ -11,7 +11,7 @@ A classe 'Job' possui 2 atributos:
 
 .. code-block:: python
 
-    >>> from databricks.workflows import Job
+    >>> from databricks.workflows.job import Job
 
     >>> dbJob = Job(databricks, "<job-id>")
 
