@@ -1,5 +1,3 @@
-from databricks.workflows.job import Job
-
-from databricks.workflows.jobManager import JobManager
-
-from databricks.workflows.jobRun import JobRun
+from .job import Job
+from .jobManager import JobManager
+from .jobRun import JobRun

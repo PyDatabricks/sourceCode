@@ -1,4 +1,4 @@
-from databricks.fileManagement.types.DatabricksJobManagerTypes import (
+from databricks.types.DatabricksJobManagerTypes import (
     DatabricksCreateJobRequestType,
     DatabricksCreateJobResponseType,
     DatabricksListJobsResponseType

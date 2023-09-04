@@ -1,1 +1,1 @@
-from databricks.compute.cluster.cluster import Cluster
+from .cluster import Cluster

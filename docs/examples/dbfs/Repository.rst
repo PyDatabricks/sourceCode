@@ -10,7 +10,7 @@ A classe 'Repository' recebe 2 atributos:
 
 .. code-block:: python
 
-    >>> from databricks.fileManagement.dbfs import Repository
+    >>> from databricks.fileManagement.dbfs.repository import Repository
 
     >>> repo = Repository(databricks, "<path>")
 

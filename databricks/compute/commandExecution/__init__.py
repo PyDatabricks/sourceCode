@@ -1,3 +1,3 @@
-from databricks.compute.commandExecution.command import Command
-from databricks.compute.commandExecution.commandExecution import CommandExecution
-from databricks.compute.commandExecution.context import Context
+from .command import Command
+from .commandExecution import CommandExecution
+from .context import Context

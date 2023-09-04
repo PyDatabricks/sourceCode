@@ -1,5 +1,5 @@
 from databricks.compute.commandExecution.context import Context
-from databricks.fileManagement.types.DatabricksCommandExecution import (
+from databricks.types.DatabricksCommandExecution import (
     DatabricksRunCommandResponseType,
     DatabricksGetCommandStatusResponseType
 )

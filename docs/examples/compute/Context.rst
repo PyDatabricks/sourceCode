@@ -10,7 +10,7 @@ A classe 'Context' recebe 2 atributos:
 
 .. code-block:: python
 
-    >>> from databricks.compute.commandExecution import Context
+    >>> from databricks.compute.commandExecution.context import Context
 
     >>> context = Context(cluster) # PYTHON
 

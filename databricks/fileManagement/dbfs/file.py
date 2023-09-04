@@ -1,4 +1,4 @@
-from databricks.fileManagement.types.DatabricksFileManagementRepositoryTypes import DatabricksFileGetContentResponseType
+from databricks.types.DatabricksFileManagementRepositoryTypes import DatabricksFileGetContentResponseType
 from databricks.fileManagement.dbfs.repository import Repository
 from databricks.fileManagement.local.file import File as LocalFile
 from databricks import databricks

@@ -1,4 +1,4 @@
-from databricks.fileManagement.types.DatabricksCommandExecution import (
+from databricks.types.DatabricksCommandExecution import (
     DatabricksCommandStatusResponseType,
     DatabricksCreateCommandResponseType,
     DatabricksDeleteCommandResponseType,

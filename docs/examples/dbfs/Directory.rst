@@ -10,7 +10,7 @@ A classe 'Directory' extende a classe 'Repository' e recebe 2 atributos:
 
 .. code-block:: python
 
-    >>> from databricks.fileManagement.dbfs import Directory
+    >>> from databricks.fileManagement.dbfs.directory import Directory
 
     >>> dbDir = Directory(databricks, "<path>")
 

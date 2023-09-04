@@ -7,7 +7,7 @@ A classe 'JobManager' recebe 1 atributo.
 
 .. code-block:: python
 
-    >>> from databricks.workflows import JobManager
+    >>> from databricks.workflows.jobManager import JobManager
 
     >>> jobManager = JobManager(databricks)
 
