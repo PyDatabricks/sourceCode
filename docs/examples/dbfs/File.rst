@@ -84,6 +84,7 @@ O método 'download' baixa o arquivo do databricks para a máquina local.
     Params:
         + to: str
             Caminho que o arquivo será baixado.
+            
         + workers(optional): int
             Indica quantas threads serão criadas para fazer o download do arquivo. Warning: Não aumentar muito o valor.
 

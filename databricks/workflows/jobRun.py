@@ -1,4 +1,5 @@
 from databricks.types.DatabricksJobRunTypes import (
+    DatabricksJobRunInfoResponseType,
     DatabricksJobRunRequestType,
     DatabricksJobRunResponseType,
     JobRunOutputResponseType
@@ -49,7 +50,7 @@ class JobRun:
         data = req.json()
         return data
 
-    def deleteJobRun(self) -> None:
+    def delete(self) -> None:
         self.__asserts()
         req = requests.post(
             f'{self._databricks.url}/api/2.1/jobs/runs/delete',
@@ -99,4 +100,21 @@ class JobRun:
         if req.status_code != 200:
             req.raise_for_status()
         data: DatabricksJobRunResponseType = req.json()
+        return data
+
+    def getInfo(
+        self,
+        include_history: bool= False
+    ) -> DatabricksJobRunInfoResponseType:
+        self.__asserts()
+        req = requests.get(
+            f'{self._databricks.url}/api/2.1/jobs/runs/get?run_id={self._id}&include_history={include_history}',
+            headers={
+                'Authorization': f'Bearer {self._databricks.token}',
+                'Content-Type': 'application/json'
+            }
+        )
+        if req.status_code != 200:
+            req.raise_for_status()
+        data: DatabricksJobRunInfoResponseType = req.json()
         return data

@@ -24,6 +24,7 @@ from typing import (
     Literal,
     TypedDict
 )
+from databricks.databricks import Databricks
 
 class JobRunOutputNotebookOutputType(TypedDict):
     result: str
@@ -330,3 +331,66 @@ class DatabricksJobInfoResponseType(TypedDict):
     created_time: int
     run_as_user_name: str
     trigger_history: DatabricksJobInfoTriggerHistoryType
+
+
+class DatabricksJobRunInfoStateType(TypedDict):
+    life_cycle_state: Literal["PENDING", "RUNNING", "TERMINATING", "TERMINATED", "SKIPPED", "INTERNAL_ERROR", "BLOCKED", "WAITING_FOR_RETRY"]
+    result_state: Literal["SUCCESS", "FAILED", "TIMEDOUT", "CANCELED", "MAXIMUM_CONCURRENT_RUNS_REACHED", "EXCLUDED", "SUCCESS_WITH_FAILURES", "UPSTREAM_FAILED", "UPSTREAM_CANCELED"]
+    user_cancelled_or_timedout: bool
+    state_message: str
+
+class DatabricksJobRunInfoScheduleType(TypedDict):
+    quartz_cron_expression: str
+    timezone_id: str
+    pause_status: Literal["PAUSED", "UNPAUSED"]
+
+class DatabricksJobRunInfoContinuousType(TypedDict):
+    pause_status: Literal["PAUSED", "UNPAUSED"]
+
+class DatabricksJobRunInfoTaskType(JobRunOutputMetadataTaskType): pass
+
+class DatabricksJobRunInfoJobClusterNewClusterType(JobRunOutputMetadataTaskNewClusterType): pass
+
+class DatabricksJobRunInfoJobClusterType(TypedDict):
+    job_cluster_key: str
+    new_cluster: DatabricksJobRunInfoJobClusterNewClusterType
+
+class DatabricksJobRunInfoClusterSpecType(JobRunOutputMetadataClusterSpecType): pass
+
+class DatabricksJobRunInfoClusterInstanceType(JobRunOutputMetadataClusterInstanceType): pass
+
+class DatabricksJobRunInfoGitSourceType(JobRunOutputMetadataGitSourceType): pass
+
+class DatabricksJobRunInfoOverridingParametersType(JobRunOutputMetadataOverridingParametersType): pass
+
+class DatabricksJobRunInfoTriggerInfoType(JobRunOutputMetadataTriggerInfoType): pass
+
+class DatabricksJobRunInfoRepairHistoryType(JobRunOutputMetadataRepairHistoryType): pass
+
+class DatabricksJobRunInfoResponseType(TypedDict):
+    job_id: int
+    run_id: int
+    creator_user_name: str
+    original_attempt_run_id: int
+    state: DatabricksJobRunInfoStateType
+    schedule: DatabricksJobRunInfoScheduleType
+    continuous: DatabricksJobRunInfoContinuousType
+    tasks: List[DatabricksJobRunInfoTaskType]
+    job_clusters: List[DatabricksJobRunInfoJobClusterType]
+    cluster_spec: DatabricksJobRunInfoClusterSpecType
+    cluster_instance: DatabricksJobRunInfoClusterInstanceType
+    git_source: DatabricksJobRunInfoGitSourceType
+    overriding_parameters: DatabricksJobRunInfoOverridingParametersType
+    start_time: int
+    setup_duration: int
+    execution_duration: int
+    cleanup_duration: int
+    end_time: int
+    trigger_info: DatabricksJobRunInfoTriggerInfoType
+    run_duration: int
+    trigger: Literal["PERIODIC", "ONE_TIME", "RETRY", "RUN_JOB_TASK", "FILE_ARRIVAL"]
+    run_name: str
+    run_page_url: str
+    run_type: Literal["JOB_RUN", "WORKFLOW_RUN", "SUBMIT_RUN"]
+    attempt_number: int
+    repair_history: List[DatabricksJobRunInfoRepairHistoryType]
