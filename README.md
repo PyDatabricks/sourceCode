@@ -6,9 +6,6 @@ Para instalar esta biblioteca, faça o download do arquivo dist/databricks-0.11.
     pip install ./databricks-0.11.tar.gz
 ```
 
-A documentação está dentro da pasta docs/exemples
-
-![Alt text](images/image.png)
 
 ## Url
 
