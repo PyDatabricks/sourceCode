@@ -626,6 +626,15 @@
         "documentation": {}
     },
     {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
         "label": "listdir",
         "importPath": "os",
         "description": "os",
@@ -850,6 +859,14 @@
         "documentation": {}
     },
     {
+        "label": "DatabricksJobRunInfoResponseType",
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "isExtraImport": true,
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
         "label": "DatabricksJobRunRequestType",
         "importPath": "databricks.types.DatabricksJobRunTypes",
         "description": "databricks.types.DatabricksJobRunTypes",
@@ -887,6 +904,22 @@
         "description": "databricks.types.DatabricksJobTypes",
         "isExtraImport": true,
         "detail": "databricks.types.DatabricksJobTypes",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "find_packages",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
         "documentation": {}
     },
     {
@@ -2172,7 +2205,124 @@
         "kind": 6,
         "importPath": "databricks.types.DatabricksJobRunTypes",
         "description": "databricks.types.DatabricksJobRunTypes",
-        "peekOfCode": "class DatabricksJobInfoResponseType(TypedDict):\n    job_id: int\n    creator_user_name: str\n    settings: DatabricksJobInfoSettingsType\n    created_time: int\n    run_as_user_name: str\n    trigger_history: DatabricksJobInfoTriggerHistoryType",
+        "peekOfCode": "class DatabricksJobInfoResponseType(TypedDict):\n    job_id: int\n    creator_user_name: str\n    settings: DatabricksJobInfoSettingsType\n    created_time: int\n    run_as_user_name: str\n    trigger_history: DatabricksJobInfoTriggerHistoryType\nclass DatabricksJobRunInfoStateType(TypedDict):\n    life_cycle_state: Literal[\"PENDING\", \"RUNNING\", \"TERMINATING\", \"TERMINATED\", \"SKIPPED\", \"INTERNAL_ERROR\", \"BLOCKED\", \"WAITING_FOR_RETRY\"]\n    result_state: Literal[\"SUCCESS\", \"FAILED\", \"TIMEDOUT\", \"CANCELED\", \"MAXIMUM_CONCURRENT_RUNS_REACHED\", \"EXCLUDED\", \"SUCCESS_WITH_FAILURES\", \"UPSTREAM_FAILED\", \"UPSTREAM_CANCELED\"]",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobRunInfoStateType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobRunInfoStateType(TypedDict):\n    life_cycle_state: Literal[\"PENDING\", \"RUNNING\", \"TERMINATING\", \"TERMINATED\", \"SKIPPED\", \"INTERNAL_ERROR\", \"BLOCKED\", \"WAITING_FOR_RETRY\"]\n    result_state: Literal[\"SUCCESS\", \"FAILED\", \"TIMEDOUT\", \"CANCELED\", \"MAXIMUM_CONCURRENT_RUNS_REACHED\", \"EXCLUDED\", \"SUCCESS_WITH_FAILURES\", \"UPSTREAM_FAILED\", \"UPSTREAM_CANCELED\"]\n    user_cancelled_or_timedout: bool\n    state_message: str\nclass DatabricksJobRunInfoScheduleType(TypedDict):\n    quartz_cron_expression: str\n    timezone_id: str\n    pause_status: Literal[\"PAUSED\", \"UNPAUSED\"]\nclass DatabricksJobRunInfoContinuousType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobRunInfoScheduleType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobRunInfoScheduleType(TypedDict):\n    quartz_cron_expression: str\n    timezone_id: str\n    pause_status: Literal[\"PAUSED\", \"UNPAUSED\"]\nclass DatabricksJobRunInfoContinuousType(TypedDict):\n    pause_status: Literal[\"PAUSED\", \"UNPAUSED\"]\nclass DatabricksJobRunInfoTaskType(JobRunOutputMetadataTaskType): pass\nclass DatabricksJobRunInfoJobClusterNewClusterType(JobRunOutputMetadataTaskNewClusterType): pass\nclass DatabricksJobRunInfoJobClusterType(TypedDict):\n    job_cluster_key: str",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobRunInfoContinuousType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobRunInfoContinuousType(TypedDict):\n    pause_status: Literal[\"PAUSED\", \"UNPAUSED\"]\nclass DatabricksJobRunInfoTaskType(JobRunOutputMetadataTaskType): pass\nclass DatabricksJobRunInfoJobClusterNewClusterType(JobRunOutputMetadataTaskNewClusterType): pass\nclass DatabricksJobRunInfoJobClusterType(TypedDict):\n    job_cluster_key: str\n    new_cluster: DatabricksJobRunInfoJobClusterNewClusterType\nclass DatabricksJobRunInfoClusterSpecType(JobRunOutputMetadataClusterSpecType): pass\nclass DatabricksJobRunInfoClusterInstanceType(JobRunOutputMetadataClusterInstanceType): pass\nclass DatabricksJobRunInfoGitSourceType(JobRunOutputMetadataGitSourceType): pass",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobRunInfoTaskType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobRunInfoTaskType(JobRunOutputMetadataTaskType): pass\nclass DatabricksJobRunInfoJobClusterNewClusterType(JobRunOutputMetadataTaskNewClusterType): pass\nclass DatabricksJobRunInfoJobClusterType(TypedDict):\n    job_cluster_key: str\n    new_cluster: DatabricksJobRunInfoJobClusterNewClusterType\nclass DatabricksJobRunInfoClusterSpecType(JobRunOutputMetadataClusterSpecType): pass\nclass DatabricksJobRunInfoClusterInstanceType(JobRunOutputMetadataClusterInstanceType): pass\nclass DatabricksJobRunInfoGitSourceType(JobRunOutputMetadataGitSourceType): pass\nclass DatabricksJobRunInfoOverridingParametersType(JobRunOutputMetadataOverridingParametersType): pass\nclass DatabricksJobRunInfoTriggerInfoType(JobRunOutputMetadataTriggerInfoType): pass",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobRunInfoJobClusterNewClusterType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobRunInfoJobClusterNewClusterType(JobRunOutputMetadataTaskNewClusterType): pass\nclass DatabricksJobRunInfoJobClusterType(TypedDict):\n    job_cluster_key: str\n    new_cluster: DatabricksJobRunInfoJobClusterNewClusterType\nclass DatabricksJobRunInfoClusterSpecType(JobRunOutputMetadataClusterSpecType): pass\nclass DatabricksJobRunInfoClusterInstanceType(JobRunOutputMetadataClusterInstanceType): pass\nclass DatabricksJobRunInfoGitSourceType(JobRunOutputMetadataGitSourceType): pass\nclass DatabricksJobRunInfoOverridingParametersType(JobRunOutputMetadataOverridingParametersType): pass\nclass DatabricksJobRunInfoTriggerInfoType(JobRunOutputMetadataTriggerInfoType): pass\nclass DatabricksJobRunInfoRepairHistoryType(JobRunOutputMetadataRepairHistoryType): pass",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobRunInfoJobClusterType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobRunInfoJobClusterType(TypedDict):\n    job_cluster_key: str\n    new_cluster: DatabricksJobRunInfoJobClusterNewClusterType\nclass DatabricksJobRunInfoClusterSpecType(JobRunOutputMetadataClusterSpecType): pass\nclass DatabricksJobRunInfoClusterInstanceType(JobRunOutputMetadataClusterInstanceType): pass\nclass DatabricksJobRunInfoGitSourceType(JobRunOutputMetadataGitSourceType): pass\nclass DatabricksJobRunInfoOverridingParametersType(JobRunOutputMetadataOverridingParametersType): pass\nclass DatabricksJobRunInfoTriggerInfoType(JobRunOutputMetadataTriggerInfoType): pass\nclass DatabricksJobRunInfoRepairHistoryType(JobRunOutputMetadataRepairHistoryType): pass\nclass DatabricksJobRunInfoResponseType(TypedDict):",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobRunInfoClusterSpecType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobRunInfoClusterSpecType(JobRunOutputMetadataClusterSpecType): pass\nclass DatabricksJobRunInfoClusterInstanceType(JobRunOutputMetadataClusterInstanceType): pass\nclass DatabricksJobRunInfoGitSourceType(JobRunOutputMetadataGitSourceType): pass\nclass DatabricksJobRunInfoOverridingParametersType(JobRunOutputMetadataOverridingParametersType): pass\nclass DatabricksJobRunInfoTriggerInfoType(JobRunOutputMetadataTriggerInfoType): pass\nclass DatabricksJobRunInfoRepairHistoryType(JobRunOutputMetadataRepairHistoryType): pass\nclass DatabricksJobRunInfoResponseType(TypedDict):\n    job_id: int\n    run_id: int\n    creator_user_name: str",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobRunInfoClusterInstanceType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobRunInfoClusterInstanceType(JobRunOutputMetadataClusterInstanceType): pass\nclass DatabricksJobRunInfoGitSourceType(JobRunOutputMetadataGitSourceType): pass\nclass DatabricksJobRunInfoOverridingParametersType(JobRunOutputMetadataOverridingParametersType): pass\nclass DatabricksJobRunInfoTriggerInfoType(JobRunOutputMetadataTriggerInfoType): pass\nclass DatabricksJobRunInfoRepairHistoryType(JobRunOutputMetadataRepairHistoryType): pass\nclass DatabricksJobRunInfoResponseType(TypedDict):\n    job_id: int\n    run_id: int\n    creator_user_name: str\n    original_attempt_run_id: int",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobRunInfoGitSourceType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobRunInfoGitSourceType(JobRunOutputMetadataGitSourceType): pass\nclass DatabricksJobRunInfoOverridingParametersType(JobRunOutputMetadataOverridingParametersType): pass\nclass DatabricksJobRunInfoTriggerInfoType(JobRunOutputMetadataTriggerInfoType): pass\nclass DatabricksJobRunInfoRepairHistoryType(JobRunOutputMetadataRepairHistoryType): pass\nclass DatabricksJobRunInfoResponseType(TypedDict):\n    job_id: int\n    run_id: int\n    creator_user_name: str\n    original_attempt_run_id: int\n    state: DatabricksJobRunInfoStateType",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobRunInfoOverridingParametersType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobRunInfoOverridingParametersType(JobRunOutputMetadataOverridingParametersType): pass\nclass DatabricksJobRunInfoTriggerInfoType(JobRunOutputMetadataTriggerInfoType): pass\nclass DatabricksJobRunInfoRepairHistoryType(JobRunOutputMetadataRepairHistoryType): pass\nclass DatabricksJobRunInfoResponseType(TypedDict):\n    job_id: int\n    run_id: int\n    creator_user_name: str\n    original_attempt_run_id: int\n    state: DatabricksJobRunInfoStateType\n    schedule: DatabricksJobRunInfoScheduleType",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobRunInfoTriggerInfoType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobRunInfoTriggerInfoType(JobRunOutputMetadataTriggerInfoType): pass\nclass DatabricksJobRunInfoRepairHistoryType(JobRunOutputMetadataRepairHistoryType): pass\nclass DatabricksJobRunInfoResponseType(TypedDict):\n    job_id: int\n    run_id: int\n    creator_user_name: str\n    original_attempt_run_id: int\n    state: DatabricksJobRunInfoStateType\n    schedule: DatabricksJobRunInfoScheduleType\n    continuous: DatabricksJobRunInfoContinuousType",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobRunInfoRepairHistoryType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobRunInfoRepairHistoryType(JobRunOutputMetadataRepairHistoryType): pass\nclass DatabricksJobRunInfoResponseType(TypedDict):\n    job_id: int\n    run_id: int\n    creator_user_name: str\n    original_attempt_run_id: int\n    state: DatabricksJobRunInfoStateType\n    schedule: DatabricksJobRunInfoScheduleType\n    continuous: DatabricksJobRunInfoContinuousType\n    tasks: List[DatabricksJobRunInfoTaskType]",
+        "detail": "databricks.types.DatabricksJobRunTypes",
+        "documentation": {}
+    },
+    {
+        "label": "DatabricksJobRunInfoResponseType",
+        "kind": 6,
+        "importPath": "databricks.types.DatabricksJobRunTypes",
+        "description": "databricks.types.DatabricksJobRunTypes",
+        "peekOfCode": "class DatabricksJobRunInfoResponseType(TypedDict):\n    job_id: int\n    run_id: int\n    creator_user_name: str\n    original_attempt_run_id: int\n    state: DatabricksJobRunInfoStateType\n    schedule: DatabricksJobRunInfoScheduleType\n    continuous: DatabricksJobRunInfoContinuousType\n    tasks: List[DatabricksJobRunInfoTaskType]\n    job_clusters: List[DatabricksJobRunInfoJobClusterType]",
         "detail": "databricks.types.DatabricksJobRunTypes",
         "documentation": {}
     },
@@ -2426,6 +2576,24 @@
         "description": "main",
         "peekOfCode": "def main() -> None:\n    db = Databricks(\"https://adb-6549464872659391.11.azuredatabricks.net\", \"dapi875e195df70eb028bf477acce594ff50\")\n    db.listClusters()\nif __name__ == \"__main__\":\n    main()",
         "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "_PATH_ROOT",
+        "kind": 5,
+        "importPath": "setup",
+        "description": "setup",
+        "peekOfCode": "_PATH_ROOT = os.path.dirname(__file__)\n_PATH_REQUIRES = os.path.join(_PATH_ROOT, \"requirements\")\ndef _load_requirements(path_dir: str = _PATH_ROOT, file_name: str = \"requirements.txt\") -> \"list[str]\":\n    with open(os.path.join(path_dir, file_name)) as fp:\n        reqs = [ln.strip() for ln in fp.readlines()]\n    return [r for r in reqs if r and not r.startswith(\"#\")]\nsetup(\n    name='databricks',\n    version='0.1',\n    url='https://github.com/the-gigi/pathology',",
+        "detail": "setup",
+        "documentation": {}
+    },
+    {
+        "label": "_PATH_REQUIRES",
+        "kind": 5,
+        "importPath": "setup",
+        "description": "setup",
+        "peekOfCode": "_PATH_REQUIRES = os.path.join(_PATH_ROOT, \"requirements\")\ndef _load_requirements(path_dir: str = _PATH_ROOT, file_name: str = \"requirements.txt\") -> \"list[str]\":\n    with open(os.path.join(path_dir, file_name)) as fp:\n        reqs = [ln.strip() for ln in fp.readlines()]\n    return [r for r in reqs if r and not r.startswith(\"#\")]\nsetup(\n    name='databricks',\n    version='0.1',\n    url='https://github.com/the-gigi/pathology',\n    license='None',",
+        "detail": "setup",
         "documentation": {}
     }
 ]

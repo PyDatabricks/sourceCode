@@ -206,7 +206,7 @@ class File(Repository):
 
     def upload(
         self,
-        contents: str,
+        content: str,
         overwrite: False
     ) -> None:
         self.__assert()
@@ -218,7 +218,7 @@ class File(Repository):
             },
             json={
                 'path': self.path,
-                'contents': contents,
+                'contents': content,
                 'overwrite': overwrite
             }
         )
